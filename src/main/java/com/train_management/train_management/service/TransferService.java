@@ -34,6 +34,29 @@ public class TransferService {
         transferRepository.deleteById(id);
     }
 
+
+    public List<Transfer> findAll() {
+        return transferRepository.findAll();
+    }
+
+    public Transfer findById(Long id) {
+        return transferRepository.findById(id).orElseThrow(() -> new RuntimeException("Transfer not found"));
+    }
+
+    public Transfer save(Transfer transfer) {
+        return transferRepository.save(transfer);
+    }
+
+    public Transfer update(Long id, Transfer transfer) {
+        // Ensure the entity exists before updating
+        Transfer existingTransfer = findById(id);
+        // Update fields here
+        return save(existingTransfer);
+    }
+
+    public void delete(Long id) {
+        transferRepository.deleteById(id);
+    }
     // Additional methods to handle business logic related to transfers
     // For example, finding transfers by fromStopId or toStopId, handling transfer types, etc.
 

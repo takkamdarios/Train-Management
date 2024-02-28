@@ -37,4 +37,28 @@ public class TranslationService {
     public void deleteTranslationById(Long id) {
         translationRepository.deleteById(id);
     }
+
+
+    public List<Translation> findAll() {
+        return translationRepository.findAll();
+    }
+
+    public Translation findById(Long id) {
+        return translationRepository.findById(id).orElseThrow(() -> new RuntimeException("Translation not found"));
+    }
+
+    public Translation save(Translation translation) {
+        return translationRepository.save(translation);
+    }
+
+    public Translation update(Long id, Translation translation) {
+        // Ensure the entity exists before updating
+        Translation existingTranslation = findById(id);
+        // Update fields here
+        return save(existingTranslation);
+    }
+
+    public void delete(Long id) {
+        translationRepository.deleteById(id);
+    }
 }
