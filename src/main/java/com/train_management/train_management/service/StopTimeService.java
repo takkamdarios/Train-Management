@@ -28,6 +28,11 @@ public class StopTimeService {
         return stopTimeRepository.findById(id);
     }
 
+    public StopTime createStopTime(StopTime stopTime) {
+        // Here, you can add any business logic before saving the stopTime
+        return stopTimeRepository.save(stopTime);
+    }
+
     // Save or update a stop time
     public StopTime saveOrUpdateStopTime(StopTime stopTime) {
         return stopTimeRepository.save(stopTime);
