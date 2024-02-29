@@ -1,6 +1,6 @@
 package com.train_management;
 
-import com.train_management.model.TrainLocation;
+import com.train_management.train_management.model.TrainLocation;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
