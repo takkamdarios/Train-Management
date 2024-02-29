@@ -8,27 +8,27 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "agency")
+@Table(name = "agencies")
 public class Agency {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @Column(name = "name")
-    private String name;
+    @Column(nullable = false, unique = true)
+    private String agencyName;
 
-    @Column(name = "url")
-    private String url;
+    @Column(nullable = false)
+    private String agencyUrl;
 
-    @Column(name = "timezone")
-    private String timezone;
+    @Column(nullable = false)
+    private String agencyTimezone;
 
-    @Column(name = "phone")
-    private String phone;
+    @Column(nullable = true)
+    private String agencyPhone;
 
-    @Column(name = "lang")
-    private String lang;
+    @Column(nullable = true)
+    private String agencyLang;
 
     // Standard getters and setters
 
@@ -40,45 +40,46 @@ public class Agency {
         this.id = id;
     }
 
-    public String getName() {
-        return name;
+    public String getAgencyName() {
+        return agencyName;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setAgencyName(String agencyName) {
+        this.agencyName = agencyName;
     }
 
-    public String getUrl() {
-        return url;
+    public String getAgencyUrl() {
+        return agencyUrl;
     }
 
-    public void setUrl(String url) {
-        this.url = url;
+    public void setAgencyUrl(String agencyUrl) {
+        this.agencyUrl = agencyUrl;
     }
 
-    public String getTimezone() {
-        return timezone;
+    public String getAgencyTimezone() {
+        return agencyTimezone;
     }
 
-    public void setTimezone(String timezone) {
-        this.timezone = timezone;
+    public void setAgencyTimezone(String agencyTimezone) {
+        this.agencyTimezone = agencyTimezone;
     }
 
-    public String getPhone() {
-        return phone;
+    public String getAgencyPhone() {
+        return agencyPhone;
     }
 
-    public void setPhone(String phone) {
-        this.phone = phone;
+    public void setAgencyPhone(String agencyPhone) {
+        this.agencyPhone = agencyPhone;
     }
 
-    public String getLang() {
-        return lang;
+    public String getAgencyLang() {
+        return agencyLang;
     }
 
-    public void setLang(String lang) {
-        this.lang = lang;
+    public void setAgencyLang(String agencyLang) {
+        this.agencyLang = agencyLang;
     }
+
 
     // toString, hashCode, equals, and other methods (if necessary)
 }

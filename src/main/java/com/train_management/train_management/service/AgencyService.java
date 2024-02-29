@@ -18,29 +18,12 @@ public class AgencyService {
         this.agencyRepository = agencyRepository;
     }
 
-    public List<Agency> getAllAgencies() {
-        return agencyRepository.findAll();
-    }
-
-    public Optional<Agency> getAgencyById(Long id) {
-        return agencyRepository.findById(id);
-    }
-
-    public Agency saveOrUpdateAgency(Agency agency) {
-        return agencyRepository.save(agency);
-    }
-
-    public void deleteAgency(Long id) {
-        agencyRepository.deleteById(id);
-    }
-
     public List<Agency> findAll() {
         return agencyRepository.findAll();
     }
 
-    public Agency findById(Long id) {
-        return agencyRepository.findById(id)
-                .orElseThrow(() -> new RuntimeException("Agency not found with id " + id));
+    public Optional<Agency> findById(Long id) {
+        return agencyRepository.findById(id);
     }
 
     public Agency save(Agency agency) {
@@ -48,21 +31,19 @@ public class AgencyService {
     }
 
     public Agency update(Long id, Agency agencyDetails) {
-        Agency agency = agencyRepository.findById(id)
-                .orElseThrow(() -> new RuntimeException("Agency not found with id " + id));
+        Agency existingAgency = agencyRepository.findById(id)
+                .orElseThrow(() -> new RuntimeException("Agency not found with id: " + id));
 
-        agency.setName(agencyDetails.getName());
-        agency.setUrl(agencyDetails.getUrl());
-        agency.setTimezone(agencyDetails.getTimezone());
-        agency.setPhone(agencyDetails.getPhone());
-        agency.setLang(agencyDetails.getLang());
+        existingAgency.setAgencyName(agencyDetails.getAgencyName());
+        existingAgency.setAgencyUrl(agencyDetails.getAgencyUrl());
+        existingAgency.setAgencyTimezone(agencyDetails.getAgencyTimezone());
+        existingAgency.setAgencyPhone(agencyDetails.getAgencyPhone());
+        existingAgency.setAgencyLang(agencyDetails.getAgencyLang());
 
-        return agencyRepository.save(agency);
+        return agencyRepository.save(existingAgency);
     }
 
     public void delete(Long id) {
-        Agency agency = agencyRepository.findById(id)
-                .orElseThrow(() -> new RuntimeException("Agency not found with id " + id));
-        agencyRepository.delete(agency);
+        agencyRepository.deleteById(id);
     }
 }

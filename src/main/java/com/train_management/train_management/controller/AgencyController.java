@@ -3,6 +3,7 @@ package com.train_management.train_management.controller;
 import com.train_management.train_management.model.Agency;
 import com.train_management.train_management.service.AgencyService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
@@ -27,14 +28,15 @@ public class AgencyController {
 
     @GetMapping("/{id}")
     public ResponseEntity<Agency> getAgencyById(@PathVariable Long id) {
-        Agency agency = agencyService.findById(id);
+        Agency agency = agencyService.findById(id)
+                .orElseThrow(() -> new RuntimeException("Agency not found with id: " + id));
         return ResponseEntity.ok(agency);
     }
 
     @PostMapping
     public ResponseEntity<Agency> createAgency(@RequestBody Agency agency) {
-        Agency savedAgency = agencyService.save(agency);
-        return ResponseEntity.ok(savedAgency);
+        Agency newAgency = agencyService.save(agency);
+        return new ResponseEntity<>(newAgency, HttpStatus.CREATED);
     }
 
     @PutMapping("/{id}")
@@ -46,6 +48,7 @@ public class AgencyController {
     @DeleteMapping("/{id}")
     public ResponseEntity<Void> deleteAgency(@PathVariable Long id) {
         agencyService.delete(id);
-        return ResponseEntity.ok().build();
+        return ResponseEntity.noContent().build();
     }
+
 }

@@ -6,7 +6,4 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface AgencyRepository extends JpaRepository<Agency, Long> {
-    // Here, you can add any custom methods you might need
-    // For example, find an agency by name
-    Agency findByName(String name);
 }
