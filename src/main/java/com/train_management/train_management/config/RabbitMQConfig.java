@@ -1,6 +1,6 @@
 package com.train_management.train_management.config;
 
-import com.train_management.train_management.service.Receiver;
+import com.train_management.service.Receiver;
 import org.springframework.amqp.core.Binding;
 import org.springframework.amqp.core.BindingBuilder;
 import org.springframework.amqp.core.Queue;

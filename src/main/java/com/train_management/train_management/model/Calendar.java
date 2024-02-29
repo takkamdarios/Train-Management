@@ -1,4 +1,4 @@
-package com.train_management.train_management.model;
+package com.train_management.model;
 
 import javax.persistence.*;
 import java.time.LocalDate;

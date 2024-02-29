@@ -2,6 +2,7 @@ package com.train_management.train_management.model;
 
 import javax.persistence.*;
 import java.time.LocalDate;
+import java.util.Calendar;
 
 @Entity
 @Table(name = "calendar_dates")

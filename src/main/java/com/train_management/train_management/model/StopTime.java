@@ -13,7 +13,7 @@ public class StopTime {
 
     @ManyToOne
     @JoinColumn(name = "trip_id")
-    private Trip trip;
+    private com.train_management.model.Trip trip;
 
     @ManyToOne
     @JoinColumn(name = "stop_id")
@@ -50,11 +50,11 @@ public class StopTime {
         this.id = id;
     }
 
-    public Trip getTrip() {
+    public com.train_management.model.Trip getTrip() {
         return trip;
     }
 
-    public void setTrip(Trip trip) {
+    public void setTrip(com.train_management.model.Trip trip) {
         this.trip = trip;
     }
 

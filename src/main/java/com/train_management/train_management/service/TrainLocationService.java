@@ -4,7 +4,6 @@ import com.train_management.train_management.model.TrainLocation;
 import com.train_management.train_management.repository.TrainLocationRepository;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 import org.springframework.transaction.annotation.Transactional;

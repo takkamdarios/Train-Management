@@ -1,6 +1,6 @@
 package com.train_management.train_management.service;
 
-import com.train_management.train_management.model.Calendar;
+import com.train_management.model.Calendar;
 import com.train_management.train_management.repository.CalendarRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
