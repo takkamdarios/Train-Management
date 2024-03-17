@@ -26,15 +26,12 @@ public class CalendarController {
         return ResponseEntity.ok(calendarEntries);
     }
 
-    // Get a single calendar entry by ID
-    @GetMapping("/{id}")
-    public ResponseEntity<Calendar> getCalendarById(@PathVariable Long id) {
-        Calendar calendar = calendarService.findById(id);
-        if (calendar != null) {
-            return ResponseEntity.ok(calendar);
-        } else {
-            return ResponseEntity.notFound().build();
-        }
+    // Get a single calendar entry by serviceId
+    @GetMapping("/{serviceId}")
+    public ResponseEntity<Calendar> getCalendarByServiceId(@PathVariable String serviceId) {
+        return calendarService.findByServiceId(serviceId)
+                .map(ResponseEntity::ok)
+                .orElseGet(() -> ResponseEntity.notFound().build());
     }
 
     // Create a new calendar entry
@@ -45,9 +42,9 @@ public class CalendarController {
     }
 
     // Update an existing calendar entry
-    @PutMapping("/{id}")
-    public ResponseEntity<Calendar> updateCalendarEntry(@PathVariable Long id, @RequestBody Calendar calendarDetails) {
-        Calendar updatedCalendar = calendarService.update(id, calendarDetails);
+    @PutMapping("/{serviceId}")
+    public ResponseEntity<Calendar> updateCalendarEntry(@PathVariable String serviceId, @RequestBody Calendar calendarDetails) {
+        Calendar updatedCalendar = calendarService.update(serviceId, calendarDetails);
         if (updatedCalendar != null) {
             return ResponseEntity.ok(updatedCalendar);
         } else {
@@ -56,9 +53,9 @@ public class CalendarController {
     }
 
     // Delete a calendar entry
-    @DeleteMapping("/{id}")
-    public ResponseEntity<Void> deleteCalendarEntry(@PathVariable Long id) {
-        calendarService.delete(id);
+    @DeleteMapping("/{serviceId}")
+    public ResponseEntity<Void> deleteCalendarEntry(@PathVariable String serviceId) {
+        calendarService.deleteByServiceId(serviceId);
         return ResponseEntity.ok().build();
     }
 }

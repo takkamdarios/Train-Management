@@ -8,8 +8,6 @@ import java.util.List;
 
 @Repository
 public interface StopTimeRepository extends JpaRepository<StopTime, Long> {
-    // Example custom query method
-    List<StopTime> findByTripId(String tripId);
-
-    // Additional custom query methods can be defined here as needed
+    // Corrected method name for finding StopTime entities by the tripId of the Trip entity
+    List<StopTime> findByTripTripId(Long tripId);
 }

@@ -1,11 +1,11 @@
 package com.train_management.train_management.model;
 
+import com.train_management.train_management.converter.LocalDateStringConverter;
 import jakarta.persistence.Column;
+import jakarta.persistence.Convert;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
-
-import jakarta.persistence.*;
 import java.time.LocalDate;
 
 @Entity
@@ -13,10 +13,7 @@ import java.time.LocalDate;
 public class Calendar {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
-
-    @Column(name = "service_id")
+    @Column(name = "service_id", nullable = false)
     private String serviceId;
 
     @Column(name = "monday")
@@ -41,20 +38,14 @@ public class Calendar {
     private Boolean sunday;
 
     @Column(name = "start_date")
+    @Convert(converter = LocalDateStringConverter.class)
     private LocalDate startDate;
 
     @Column(name = "end_date")
+    @Convert(converter = LocalDateStringConverter.class)
     private LocalDate endDate;
 
-    // Standard getters and setters
-
-    public Long getId() {
-        return id;
-    }
-
-    public void setId(Long id) {
-        this.id = id;
-    }
+    // Getters and Setters
 
     public String getServiceId() {
         return serviceId;
@@ -136,5 +127,5 @@ public class Calendar {
         this.endDate = endDate;
     }
 
-    // toString, hashCode, equals, and other methods (if necessary)
+    // Constructor, hashCode, equals, and toString methods as necessary
 }

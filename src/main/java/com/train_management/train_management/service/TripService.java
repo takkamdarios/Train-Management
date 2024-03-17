@@ -22,16 +22,16 @@ public class TripService {
         return tripRepository.findAll();
     }
 
-    public Optional<Trip> getTripById(Long id) {
-        return tripRepository.findById(id);
+    public Optional<Trip> getTripById(Long tripId) {
+        return tripRepository.findById(tripId);
     }
 
     public Trip saveTrip(Trip trip) {
         return tripRepository.save(trip);
     }
 
-    public void deleteTrip(Long id) {
-        tripRepository.deleteById(id);
+    public void deleteTrip(Long tripId) {
+        tripRepository.deleteById(tripId);
     }
 
 
@@ -48,15 +48,15 @@ public class TripService {
         return tripRepository.save(trip);
     }
 
-    public Trip update(Long id, Trip updatedTrip) {
-        Trip existingTrip = findById(id); // Ensure the trip exists
+    public Trip update(Long tripId, Trip updatedTrip) {
+        Trip existingTrip = findById(tripId); // Ensure the trip exists
         // Update the existing trip entity here based on updatedTrip's fields
         // For example, you might want to check each field for null and only update fields that have changed.
         return tripRepository.save(existingTrip);
     }
 
-    public void delete(Long id) {
-        tripRepository.deleteById(id);
+    public void delete(Long tripId) {
+        tripRepository.deleteById(tripId);
     }
     // Additional business logic methods can be added here
     // For example, updating a trip, finding trips by routeId, etc.

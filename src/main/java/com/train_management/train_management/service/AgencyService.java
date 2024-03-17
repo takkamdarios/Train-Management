@@ -10,37 +10,40 @@ import java.util.Optional;
 
 @Service
 public class AgencyService {
-    @Autowired
-    private AgencyRepository agencyRepository;
+    private final AgencyRepository agencyRepository;
 
-    public AgencyService() {
+    @Autowired
+    public AgencyService(AgencyRepository agencyRepository) {
+        this.agencyRepository = agencyRepository;
     }
 
     public List<Agency> findAll() {
-        return this.agencyRepository.findAll();
+        return agencyRepository.findAll();
     }
 
-    public Optional<Agency> findById(Long id) {
-        return this.agencyRepository.findById(id);
+    public Optional<Agency> findById(Long agencyId) {
+        return agencyRepository.findById(agencyId);
     }
 
     public Agency save(Agency agency) {
-        return (Agency)this.agencyRepository.save(agency);
+        if (agency.getAgencyId() == null) {
+            throw new RuntimeException("Agency ID must be provided");
+        }
+        return agencyRepository.save(agency);
     }
 
-    public Agency update(Long id, Agency agencyDetails) {
-        Agency existingAgency = (Agency)this.agencyRepository.findById(id).orElseThrow(() -> {
-            return new RuntimeException("Agency not found with id: " + id);
-        });
+    public Agency update(Long agencyId, Agency agencyDetails) {
+        Agency existingAgency = agencyRepository.findById(agencyId)
+                .orElseThrow(() -> new RuntimeException("Agency not found with id: " + agencyId));
         existingAgency.setAgencyName(agencyDetails.getAgencyName());
         existingAgency.setAgencyUrl(agencyDetails.getAgencyUrl());
         existingAgency.setAgencyTimezone(agencyDetails.getAgencyTimezone());
         existingAgency.setAgencyPhone(agencyDetails.getAgencyPhone());
         existingAgency.setAgencyLang(agencyDetails.getAgencyLang());
-        return (Agency)this.agencyRepository.save(existingAgency);
+        return agencyRepository.save(existingAgency);
     }
 
-    public void delete(Long id) {
-        this.agencyRepository.deleteById(id);
+    public void delete(Long agencyId) {
+        agencyRepository.deleteById(agencyId);
     }
 }

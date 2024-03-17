@@ -1,0 +1,2265 @@
+table_name,field_name,language,translation,record_id,record_sub_id,field_value
+stops,stop_name,fr,Ingelmunster,,,Ingelmunster
+stops,stop_name,nl,Ingelmunster,,,Ingelmunster
+stops,stop_name,de,Ingelmunster,,,Ingelmunster
+stops,stop_name,en,Ingelmunster,,,Ingelmunster
+stops,stop_name,fr,Izegem,,,Izegem
+stops,stop_name,nl,Izegem,,,Izegem
+stops,stop_name,de,Izegem,,,Izegem
+stops,stop_name,en,Izegem,,,Izegem
+stops,stop_name,fr,Roulers,,,Roulers
+stops,stop_name,nl,Roeselare,,,Roulers
+stops,stop_name,de,Roeselare / Roulers,,,Roulers
+stops,stop_name,en,Roeselare / Roulers,,,Roulers
+stops,stop_name,fr,Poperinge,,,Poperinge
+stops,stop_name,nl,Poperinge,,,Poperinge
+stops,stop_name,de,Poperinge,,,Poperinge
+stops,stop_name,en,Poperinge,,,Poperinge
+stops,stop_name,fr,Ypres,,,Ypres
+stops,stop_name,nl,Ieper,,,Ypres
+stops,stop_name,de,Ieper / Ypres,,,Ypres
+stops,stop_name,en,Ypres / Ieper,,,Ypres
+stops,stop_name,fr,Comines,,,Comines
+stops,stop_name,nl,Komen,,,Comines
+stops,stop_name,de,Komen / Comines,,,Comines
+stops,stop_name,en,Comines / Komen,,,Comines
+stops,stop_name,fr,Wervik,,,Wervik
+stops,stop_name,nl,Wervik,,,Wervik
+stops,stop_name,de,Wervik,,,Wervik
+stops,stop_name,en,Wervik,,,Wervik
+stops,stop_name,fr,Bissegem,,,Bissegem
+stops,stop_name,nl,Bissegem,,,Bissegem
+stops,stop_name,de,Bissegem,,,Bissegem
+stops,stop_name,en,Bissegem,,,Bissegem
+stops,stop_name,fr,Wevelgem,,,Wevelgem
+stops,stop_name,nl,Wevelgem,,,Wevelgem
+stops,stop_name,de,Wevelgem,,,Wevelgem
+stops,stop_name,en,Wevelgem,,,Wevelgem
+stops,stop_name,fr,Menin,,,Menin
+stops,stop_name,nl,Menen,,,Menin
+stops,stop_name,de,Menen / Menin,,,Menin
+stops,stop_name,en,Menin / Menen,,,Menin
+stops,stop_name,fr,Vichte,,,Vichte
+stops,stop_name,nl,Vichte,,,Vichte
+stops,stop_name,de,Vichte,,,Vichte
+stops,stop_name,en,Vichte,,,Vichte
+stops,stop_name,fr,Waregem,,,Waregem
+stops,stop_name,nl,Waregem,,,Waregem
+stops,stop_name,de,Waregem,,,Waregem
+stops,stop_name,en,Waregem,,,Waregem
+stops,stop_name,fr,Harelbeke,,,Harelbeke
+stops,stop_name,nl,Harelbeke,,,Harelbeke
+stops,stop_name,de,Harelbeke,,,Harelbeke
+stops,stop_name,en,Harelbeke,,,Harelbeke
+stops,stop_name,fr,Courtrai,,,Courtrai
+stops,stop_name,nl,Kortrijk,,,Courtrai
+stops,stop_name,de,Kortrijk / Courtrai,,,Courtrai
+stops,stop_name,en,Courtrai / Kortrijk,,,Courtrai
+stops,stop_name,fr,Ede,,,Ede
+stops,stop_name,nl,Ede,,,Ede
+stops,stop_name,de,Ede,,,Ede
+stops,stop_name,en,Ede,,,Ede
+stops,stop_name,fr,Haaltert,,,Haaltert
+stops,stop_name,nl,Haaltert,,,Haaltert
+stops,stop_name,de,Haaltert,,,Haaltert
+stops,stop_name,en,Haaltert,,,Haaltert
+stops,stop_name,fr,Welle,,,Welle
+stops,stop_name,nl,Welle,,,Welle
+stops,stop_name,de,Welle,,,Welle
+stops,stop_name,en,Welle,,,Welle
+stops,stop_name,fr,Iddergem,,,Iddergem
+stops,stop_name,nl,Iddergem,,,Iddergem
+stops,stop_name,de,Iddergem,,,Iddergem
+stops,stop_name,en,Iddergem,,,Iddergem
+stops,stop_name,fr,Liedekerke,,,Liedekerke
+stops,stop_name,nl,Liedekerke,,,Liedekerke
+stops,stop_name,de,Liedekerke,,,Liedekerke
+stops,stop_name,en,Liedekerke,,,Liedekerke
+stops,stop_name,fr,Denderleeuw,,,Denderleeuw
+stops,stop_name,nl,Denderleeuw,,,Denderleeuw
+stops,stop_name,de,Denderleeuw,,,Denderleeuw
+stops,stop_name,en,Denderleeuw,,,Denderleeuw
+stops,stop_name,fr,Okegem,,,Okegem
+stops,stop_name,nl,Okegem,,,Okegem
+stops,stop_name,de,Okegem,,,Okegem
+stops,stop_name,en,Okegem,,,Okegem
+stops,stop_name,fr,Ninove,,,Ninove
+stops,stop_name,nl,Ninove,,,Ninove
+stops,stop_name,de,Ninove,,,Ninove
+stops,stop_name,en,Ninove,,,Ninove
+stops,stop_name,fr,Eichem,,,Eichem
+stops,stop_name,nl,Eichem,,,Eichem
+stops,stop_name,de,Eichem,,,Eichem
+stops,stop_name,en,Eichem,,,Eichem
+stops,stop_name,fr,Appelterre,,,Appelterre
+stops,stop_name,nl,Appelterre,,,Appelterre
+stops,stop_name,de,Appelterre,,,Appelterre
+stops,stop_name,en,Appelterre,,,Appelterre
+stops,stop_name,fr,Zandbergen,,,Zandbergen
+stops,stop_name,nl,Zandbergen,,,Zandbergen
+stops,stop_name,de,Zandbergen,,,Zandbergen
+stops,stop_name,en,Zandbergen,,,Zandbergen
+stops,stop_name,fr,Idegem,,,Idegem
+stops,stop_name,nl,Idegem,,,Idegem
+stops,stop_name,de,Idegem,,,Idegem
+stops,stop_name,en,Idegem,,,Idegem
+stops,stop_name,fr,Schendelbeke,,,Schendelbeke
+stops,stop_name,nl,Schendelbeke,,,Schendelbeke
+stops,stop_name,de,Schendelbeke,,,Schendelbeke
+stops,stop_name,en,Schendelbeke,,,Schendelbeke
+stops,stop_name,fr,Herne,,,Herne
+stops,stop_name,nl,Herne,,,Herne
+stops,stop_name,de,Herne,,,Herne
+stops,stop_name,en,Herne,,,Herne
+stops,stop_name,fr,Tollembeek,,,Tollembeek
+stops,stop_name,nl,Tollembeek,,,Tollembeek
+stops,stop_name,de,Tollembeek,,,Tollembeek
+stops,stop_name,en,Tollembeek,,,Tollembeek
+stops,stop_name,fr,Gammerages,,,Gammerages
+stops,stop_name,nl,Galmaarden,,,Gammerages
+stops,stop_name,de,Galmaarden / Gammerages,,,Gammerages
+stops,stop_name,en,Gammerages / Galmaarden,,,Gammerages
+stops,stop_name,fr,Viane-Moerbeke,,,Viane-Moerbeke
+stops,stop_name,nl,Viane-Moerbeke,,,Viane-Moerbeke
+stops,stop_name,de,Viane-Moerbeke,,,Viane-Moerbeke
+stops,stop_name,en,Viane-Moerbeke,,,Viane-Moerbeke
+stops,stop_name,fr,Lierde,,,Lierde
+stops,stop_name,nl,Lierde,,,Lierde
+stops,stop_name,de,Lierde,,,Lierde
+stops,stop_name,en,Lierde,,,Lierde
+stops,stop_name,fr,Grammont,,,Grammont
+stops,stop_name,nl,Geraardsbergen,,,Grammont
+stops,stop_name,de,Geraardsbergen / Grammont,,,Grammont
+stops,stop_name,en,Grammont / Geraardsbergen,,,Grammont
+stops,stop_name,fr,Vijfhuizen,,,Vijfhuizen
+stops,stop_name,nl,Vijfhuizen,,,Vijfhuizen
+stops,stop_name,de,Vijfhuizen,,,Vijfhuizen
+stops,stop_name,en,Vijfhuizen,,,Vijfhuizen
+stops,stop_name,fr,Erpe-Mere,,,Erpe-Mere
+stops,stop_name,nl,Erpe-Mere,,,Erpe-Mere
+stops,stop_name,de,Erpe-Mere,,,Erpe-Mere
+stops,stop_name,en,Erpe-Mere,,,Erpe-Mere
+stops,stop_name,fr,Bambrugge,,,Bambrugge
+stops,stop_name,nl,Bambrugge,,,Bambrugge
+stops,stop_name,de,Bambrugge,,,Bambrugge
+stops,stop_name,en,Bambrugge,,,Bambrugge
+stops,stop_name,fr,Burst,,,Burst
+stops,stop_name,nl,Burst,,,Burst
+stops,stop_name,de,Burst,,,Burst
+stops,stop_name,en,Burst,,,Burst
+stops,stop_name,fr,Terhagen,,,Terhagen
+stops,stop_name,nl,Terhagen,,,Terhagen
+stops,stop_name,de,Terhagen,,,Terhagen
+stops,stop_name,en,Terhagen,,,Terhagen
+stops,stop_name,fr,Herzele,,,Herzele
+stops,stop_name,nl,Herzele,,,Herzele
+stops,stop_name,de,Herzele,,,Herzele
+stops,stop_name,en,Herzele,,,Herzele
+stops,stop_name,fr,Hillegem,,,Hillegem
+stops,stop_name,nl,Hillegem,,,Hillegem
+stops,stop_name,de,Hillegem,,,Hillegem
+stops,stop_name,en,Hillegem,,,Hillegem
+stops,stop_name,fr,Balegem-Dorp,,,Balegem-Dorp
+stops,stop_name,nl,Balegem-Dorp,,,Balegem-Dorp
+stops,stop_name,de,Balegem-Dorp / Balegem-Village,,,Balegem-Dorp
+stops,stop_name,en,Balegem-Village / Balegem-Dorp,,,Balegem-Dorp
+stops,stop_name,fr,Balegem-Zuid,,,Balegem-Zuid
+stops,stop_name,nl,Balegem-Zuid,,,Balegem-Zuid
+stops,stop_name,de,Balegem-Zuid / Balegem-Sud,,,Balegem-Zuid
+stops,stop_name,en,Balegem-Sud / Balegem-Zuid,,,Balegem-Zuid
+stops,stop_name,fr,Munkzwalm,,,Munkzwalm
+stops,stop_name,nl,Munkzwalm,,,Munkzwalm
+stops,stop_name,de,Munkzwalm,,,Munkzwalm
+stops,stop_name,en,Munkzwalm,,,Munkzwalm
+stops,stop_name,fr,Zottegem,,,Zottegem
+stops,stop_name,nl,Zottegem,,,Zottegem
+stops,stop_name,de,Zottegem,,,Zottegem
+stops,stop_name,en,Zottegem,,,Zottegem
+stops,stop_name,fr,Alost Kerrebroek,,,Alost Kerrebroek
+stops,stop_name,nl,Aalst Kerrebroek,,,Alost Kerrebroek
+stops,stop_name,de,Aalst-Kerrebroek/Alost-Kerrebroek,,,Alost Kerrebroek
+stops,stop_name,en,Alost Kerrebroek/Aalst Kerrebroek,,,Alost Kerrebroek
+stops,stop_name,fr,Erembodegem,,,Erembodegem
+stops,stop_name,nl,Erembodegem,,,Erembodegem
+stops,stop_name,de,Erembodegem,,,Erembodegem
+stops,stop_name,en,Erembodegem,,,Erembodegem
+stops,stop_name,fr,Lede,,,Lede
+stops,stop_name,nl,Lede,,,Lede
+stops,stop_name,de,Lede,,,Lede
+stops,stop_name,en,Lede,,,Lede
+stops,stop_name,fr,Alost,,,Alost
+stops,stop_name,nl,Aalst,,,Alost
+stops,stop_name,de,Aalst / Alost,,,Alost
+stops,stop_name,en,Alost / Aalst,,,Alost
+stops,stop_name,fr,Zwijndrecht,,,Zwijndrecht
+stops,stop_name,nl,Zwijndrecht,,,Zwijndrecht
+stops,stop_name,de,Zwijndrecht,,,Zwijndrecht
+stops,stop_name,en,Zwijndrecht,,,Zwijndrecht
+stops,stop_name,fr,Melsele,,,Melsele
+stops,stop_name,nl,Melsele,,,Melsele
+stops,stop_name,de,Melsele,,,Melsele
+stops,stop_name,en,Melsele,,,Melsele
+stops,stop_name,fr,Beveren,,,Beveren
+stops,stop_name,nl,Beveren,,,Beveren
+stops,stop_name,de,Beveren,,,Beveren
+stops,stop_name,en,Beveren,,,Beveren
+stops,stop_name,fr,Nieuwkerken-Waas,,,Nieuwkerken-Waas
+stops,stop_name,nl,Nieuwkerken-Waas,,,Nieuwkerken-Waas
+stops,stop_name,de,Nieuwkerken-Waas,,,Nieuwkerken-Waas
+stops,stop_name,en,Nieuwkerken-Waas,,,Nieuwkerken-Waas
+stops,stop_name,fr,Tamise,,,Tamise
+stops,stop_name,nl,Temse,,,Tamise
+stops,stop_name,de,Temse / Tamise,,,Tamise
+stops,stop_name,en,Tamise / Temse,,,Tamise
+stops,stop_name,fr,Saint-Nicolas,,,Saint-Nicolas
+stops,stop_name,nl,Sint-Niklaas,,,Saint-Nicolas
+stops,stop_name,de,Sint-Niklaas / Saint-Nicolas,,,Saint-Nicolas
+stops,stop_name,en,Saint-Nicolas / Sint-Niklaas,,,Saint-Nicolas
+stops,stop_name,fr,Belsele,,,Belsele
+stops,stop_name,nl,Belsele,,,Belsele
+stops,stop_name,de,Belsele,,,Belsele
+stops,stop_name,en,Belsele,,,Belsele
+stops,stop_name,fr,Sinaai,,,Sinaai
+stops,stop_name,nl,Sinaai,,,Sinaai
+stops,stop_name,de,Sinaai,,,Sinaai
+stops,stop_name,en,Sinaai,,,Sinaai
+stops,stop_name,fr,Zele,,,Zele
+stops,stop_name,nl,Zele,,,Zele
+stops,stop_name,de,Zele,,,Zele
+stops,stop_name,en,Zele,,,Zele
+stops,stop_name,fr,Lokeren,,,Lokeren
+stops,stop_name,nl,Lokeren,,,Lokeren
+stops,stop_name,de,Lokeren,,,Lokeren
+stops,stop_name,en,Lokeren,,,Lokeren
+stops,stop_name,fr,Beervelde,,,Beervelde
+stops,stop_name,nl,Beervelde,,,Beervelde
+stops,stop_name,de,Beervelde,,,Beervelde
+stops,stop_name,en,Beervelde,,,Beervelde
+stops,stop_name,fr,Waarschoot,,,Waarschoot
+stops,stop_name,nl,Waarschoot,,,Waarschoot
+stops,stop_name,de,Waarschoot,,,Waarschoot
+stops,stop_name,en,Waarschoot,,,Waarschoot
+stops,stop_name,fr,Eeklo,,,Eeklo
+stops,stop_name,nl,Eeklo,,,Eeklo
+stops,stop_name,de,Eeklo,,,Eeklo
+stops,stop_name,en,Eeklo,,,Eeklo
+stops,stop_name,fr,Serskamp,,,Serskamp
+stops,stop_name,nl,Serskamp,,,Serskamp
+stops,stop_name,de,Serskamp,,,Serskamp
+stops,stop_name,en,Serskamp,,,Serskamp
+stops,stop_name,fr,Kwatrecht,,,Kwatrecht
+stops,stop_name,nl,Kwatrecht,,,Kwatrecht
+stops,stop_name,de,Kwatrecht,,,Kwatrecht
+stops,stop_name,en,Kwatrecht,,,Kwatrecht
+stops,stop_name,fr,Wetteren,,,Wetteren
+stops,stop_name,nl,Wetteren,,,Wetteren
+stops,stop_name,de,Wetteren,,,Wetteren
+stops,stop_name,en,Wetteren,,,Wetteren
+stops,stop_name,fr,Schellebelle,,,Schellebelle
+stops,stop_name,nl,Schellebelle,,,Schellebelle
+stops,stop_name,de,Schellebelle,,,Schellebelle
+stops,stop_name,en,Schellebelle,,,Schellebelle
+stops,stop_name,fr,Wichelen,,,Wichelen
+stops,stop_name,nl,Wichelen,,,Wichelen
+stops,stop_name,de,Wichelen,,,Wichelen
+stops,stop_name,en,Wichelen,,,Wichelen
+stops,stop_name,fr,Schoonaarde,,,Schoonaarde
+stops,stop_name,nl,Schoonaarde,,,Schoonaarde
+stops,stop_name,de,Schoonaarde,,,Schoonaarde
+stops,stop_name,en,Schoonaarde,,,Schoonaarde
+stops,stop_name,fr,Oudegem,,,Oudegem
+stops,stop_name,nl,Oudegem,,,Oudegem
+stops,stop_name,de,Oudegem,,,Oudegem
+stops,stop_name,en,Oudegem,,,Oudegem
+stops,stop_name,fr,Sint-Gillis,,,Sint-Gillis
+stops,stop_name,nl,Sint-Gillis,,,Sint-Gillis
+stops,stop_name,de,Sint-Gillis,,,Sint-Gillis
+stops,stop_name,en,Sint-Gillis,,,Sint-Gillis
+stops,stop_name,fr,Termonde,,,Termonde
+stops,stop_name,nl,Dendermonde,,,Termonde
+stops,stop_name,de,Dendermonde / Termonde,,,Termonde
+stops,stop_name,en,Termonde / Dendermonde,,,Termonde
+stops,stop_name,fr,Sleidinge,,,Sleidinge
+stops,stop_name,nl,Sleidinge,,,Sleidinge
+stops,stop_name,de,Sleidinge,,,Sleidinge
+stops,stop_name,en,Sleidinge,,,Sleidinge
+stops,stop_name,fr,Evergem,,,Evergem
+stops,stop_name,nl,Evergem,,,Evergem
+stops,stop_name,de,Evergem,,,Evergem
+stops,stop_name,en,Evergem,,,Evergem
+stops,stop_name,fr,Wondelgem,,,Wondelgem
+stops,stop_name,nl,Wondelgem,,,Wondelgem
+stops,stop_name,de,Wondelgem,,,Wondelgem
+stops,stop_name,en,Wondelgem,,,Wondelgem
+stops,stop_name,fr,Gentbrugge,,,Gentbrugge
+stops,stop_name,nl,Gentbrugge,,,Gentbrugge
+stops,stop_name,de,Gentbrugge,,,Gentbrugge
+stops,stop_name,en,Gentbrugge,,,Gentbrugge
+stops,stop_name,fr,Gand-Dampoort,,,Gand-Dampoort
+stops,stop_name,nl,Gent-Dampoort,,,Gand-Dampoort
+stops,stop_name,de,Gent-Dampoort / Gand-Dampoort,,,Gand-Dampoort
+stops,stop_name,en,Gand-Dampoort / Gent-Dampoort,,,Gand-Dampoort
+stops,stop_name,fr,Scheldewindeke,,,Scheldewindeke
+stops,stop_name,nl,Scheldewindeke,,,Scheldewindeke
+stops,stop_name,de,Scheldewindeke,,,Scheldewindeke
+stops,stop_name,en,Scheldewindeke,,,Scheldewindeke
+stops,stop_name,fr,Moortsele,,,Moortsele
+stops,stop_name,nl,Moortsele,,,Moortsele
+stops,stop_name,de,Moortsele,,,Moortsele
+stops,stop_name,en,Moortsele,,,Moortsele
+stops,stop_name,fr,Landskouter,,,Landskouter
+stops,stop_name,nl,Landskouter,,,Landskouter
+stops,stop_name,de,Landskouter,,,Landskouter
+stops,stop_name,en,Landskouter,,,Landskouter
+stops,stop_name,fr,Gontrode,,,Gontrode
+stops,stop_name,nl,Gontrode,,,Gontrode
+stops,stop_name,de,Gontrode,,,Gontrode
+stops,stop_name,en,Gontrode,,,Gontrode
+stops,stop_name,fr,Melle,,,Melle
+stops,stop_name,nl,Melle,,,Melle
+stops,stop_name,de,Melle,,,Melle
+stops,stop_name,en,Melle,,,Melle
+stops,stop_name,fr,Merelbeke,,,Merelbeke
+stops,stop_name,nl,Merelbeke,,,Merelbeke
+stops,stop_name,de,Merelbeke,,,Merelbeke
+stops,stop_name,en,Merelbeke,,,Merelbeke
+stops,stop_name,fr,Renaix,,,Renaix
+stops,stop_name,nl,Ronse,,,Renaix
+stops,stop_name,de,Ronse / Renaix,,,Renaix
+stops,stop_name,en,Renaix / Ronse,,,Renaix
+stops,stop_name,fr,Anzegem,,,Anzegem
+stops,stop_name,nl,Anzegem,,,Anzegem
+stops,stop_name,de,Anzegem,,,Anzegem
+stops,stop_name,en,Anzegem,,,Anzegem
+stops,stop_name,fr,Sint-Denijs-Boekel,,,Sint-Denijs-Boekel
+stops,stop_name,nl,Sint-Denijs-Boekel,,,Sint-Denijs-Boekel
+stops,stop_name,de,Sint-Denijs-Boekel,,,Sint-Denijs-Boekel
+stops,stop_name,en,Sint-Denijs-Boekel,,,Sint-Denijs-Boekel
+stops,stop_name,fr,Eke-Nazareth,,,Eke-Nazareth
+stops,stop_name,nl,Eke-Nazareth,,,Eke-Nazareth
+stops,stop_name,de,Eke-Nazareth,,,Eke-Nazareth
+stops,stop_name,en,Eke-Nazareth,,,Eke-Nazareth
+stops,stop_name,fr,Gavere-Asper,,,Gavere-Asper
+stops,stop_name,nl,Gavere-Asper,,,Gavere-Asper
+stops,stop_name,de,Gavere-Asper,,,Gavere-Asper
+stops,stop_name,en,Gavere-Asper,,,Gavere-Asper
+stops,stop_name,fr,Zingem,,,Zingem
+stops,stop_name,nl,Zingem,,,Zingem
+stops,stop_name,de,Zingem,,,Zingem
+stops,stop_name,en,Zingem,,,Zingem
+stops,stop_name,fr,Eine,,,Eine
+stops,stop_name,nl,Eine,,,Eine
+stops,stop_name,de,Eine,,,Eine
+stops,stop_name,en,Eine,,,Eine
+stops,stop_name,fr,Audenarde,,,Audenarde
+stops,stop_name,nl,Oudenaarde,,,Audenarde
+stops,stop_name,de,Oudenaarde / Audenarde,,,Audenarde
+stops,stop_name,en,Audenarde / Oudenaarde,,,Audenarde
+stops,stop_name,fr,Dixmude,,,Dixmude
+stops,stop_name,nl,Diksmuide,,,Dixmude
+stops,stop_name,de,Diksmuide/Dixmude,,,Dixmude
+stops,stop_name,en,Dixmude/Diksmuide,,,Dixmude
+stops,stop_name,fr,Kortemark,,,Kortemark
+stops,stop_name,nl,Kortemark,,,Kortemark
+stops,stop_name,de,Kortemark,,,Kortemark
+stops,stop_name,en,Kortemark,,,Kortemark
+stops,stop_name,fr,La Panne,,,La Panne
+stops,stop_name,nl,De Panne,,,La Panne
+stops,stop_name,de,De Panne / La Panne,,,La Panne
+stops,stop_name,en,La Panne / De Panne,,,La Panne
+stops,stop_name,fr,Coxyde,,,Coxyde
+stops,stop_name,nl,Koksijde,,,Coxyde
+stops,stop_name,de,Koksijde / Coxyde,,,Coxyde
+stops,stop_name,en,Coxyde / Koksijde,,,Coxyde
+stops,stop_name,fr,Furnes,,,Furnes
+stops,stop_name,nl,Veurne,,,Furnes
+stops,stop_name,de,Veurne / Furnes,,,Furnes
+stops,stop_name,en,Furnes / Veurne,,,Furnes
+stops,stop_name,fr,Aarsele,,,Aarsele
+stops,stop_name,nl,Aarsele,,,Aarsele
+stops,stop_name,de,Aarsele,,,Aarsele
+stops,stop_name,en,Aarsele,,,Aarsele
+stops,stop_name,fr,Tielt,,,Tielt
+stops,stop_name,nl,Tielt,,,Tielt
+stops,stop_name,de,Tielt,,,Tielt
+stops,stop_name,en,Tielt,,,Tielt
+stops,stop_name,fr,Lichtervelde,,,Lichtervelde
+stops,stop_name,nl,Lichtervelde,,,Lichtervelde
+stops,stop_name,de,Lichtervelde,,,Lichtervelde
+stops,stop_name,en,Lichtervelde,,,Lichtervelde
+stops,stop_name,fr,Deinze,,,Deinze
+stops,stop_name,nl,Deinze,,,Deinze
+stops,stop_name,de,Deinze,,,Deinze
+stops,stop_name,en,Deinze,,,Deinze
+stops,stop_name,fr,De Pinte,,,De Pinte
+stops,stop_name,nl,De Pinte,,,De Pinte
+stops,stop_name,de,De Pinte,,,De Pinte
+stops,stop_name,en,De Pinte,,,De Pinte
+stops,stop_name,fr,Landegem,,,Landegem
+stops,stop_name,nl,Landegem,,,Landegem
+stops,stop_name,de,Landegem,,,Landegem
+stops,stop_name,en,Landegem,,,Landegem
+stops,stop_name,fr,Tronchiennes,,,Tronchiennes
+stops,stop_name,nl,Drongen,,,Tronchiennes
+stops,stop_name,de,Drongen / Tronchiennes,,,Tronchiennes
+stops,stop_name,en,Tronchiennes / Drongen,,,Tronchiennes
+stops,stop_name,fr,Gand-Saint-Pierre,,,Gand-Saint-Pierre
+stops,stop_name,nl,Gent-Sint-Pieters,,,Gand-Saint-Pierre
+stops,stop_name,de,Gent-Sint-Pieters / Gand-Saint-Pierre,,,Gand-Saint-Pierre
+stops,stop_name,en,Gand-Saint-Pierre / Gent-Sint-Pieters,,,Gand-Saint-Pierre
+stops,stop_name,fr,Ostende,,,Ostende
+stops,stop_name,nl,Oostende,,,Ostende
+stops,stop_name,de,Oostende / Ostende,,,Ostende
+stops,stop_name,en,Ostende / Oostende,,,Ostende
+stops,stop_name,fr,Knokke,,,Knokke
+stops,stop_name,nl,Knokke,,,Knokke
+stops,stop_name,de,Knokke,,,Knokke
+stops,stop_name,en,Knokke,,,Knokke
+stops,stop_name,fr,Duinbergen,,,Duinbergen
+stops,stop_name,nl,Duinbergen,,,Duinbergen
+stops,stop_name,de,Duinbergen,,,Duinbergen
+stops,stop_name,en,Duinbergen,,,Duinbergen
+stops,stop_name,fr,Heist,,,Heist
+stops,stop_name,nl,Heist,,,Heist
+stops,stop_name,de,Heist,,,Heist
+stops,stop_name,en,Heist,,,Heist
+stops,stop_name,fr,Lissewege,,,Lissewege
+stops,stop_name,nl,Lissewege,,,Lissewege
+stops,stop_name,de,Lissewege,,,Lissewege
+stops,stop_name,en,Lissewege,,,Lissewege
+stops,stop_name,fr,Zeebrugge-Dorp,,,Zeebrugge-Dorp
+stops,stop_name,nl,Zeebrugge-Dorp,,,Zeebrugge-Dorp
+stops,stop_name,de,Zeebrugge-Dorp,,,Zeebrugge-Dorp
+stops,stop_name,en,Zeebrugge-Dorp,,,Zeebrugge-Dorp
+stops,stop_name,fr,Blankenberge,,,Blankenberge
+stops,stop_name,nl,Blankenberge,,,Blankenberge
+stops,stop_name,de,Blankenberge,,,Blankenberge
+stops,stop_name,en,Blankenberge,,,Blankenberge
+stops,stop_name,fr,Torhout,,,Torhout
+stops,stop_name,nl,Torhout,,,Torhout
+stops,stop_name,de,Torhout,,,Torhout
+stops,stop_name,en,Torhout,,,Torhout
+stops,stop_name,fr,Zedelgem,,,Zedelgem
+stops,stop_name,nl,Zedelgem,,,Zedelgem
+stops,stop_name,de,Zedelgem,,,Zedelgem
+stops,stop_name,en,Zedelgem,,,Zedelgem
+stops,stop_name,fr,Zeebrugge-Strand,,,Zeebrugge-Strand
+stops,stop_name,nl,Zeebrugge-Strand,,,Zeebrugge-Strand
+stops,stop_name,de,Zeebrugge-Strand,,,Zeebrugge-Strand
+stops,stop_name,en,Zeebrugge-Strand,,,Zeebrugge-Strand
+stops,stop_name,fr,Hansbeke,,,Hansbeke
+stops,stop_name,nl,Hansbeke,,,Hansbeke
+stops,stop_name,de,Hansbeke,,,Hansbeke
+stops,stop_name,en,Hansbeke,,,Hansbeke
+stops,stop_name,fr,Bellem,,,Bellem
+stops,stop_name,nl,Bellem,,,Bellem
+stops,stop_name,de,Bellem,,,Bellem
+stops,stop_name,en,Bellem,,,Bellem
+stops,stop_name,fr,Aalter,,,Aalter
+stops,stop_name,nl,Aalter,,,Aalter
+stops,stop_name,de,Aalter,,,Aalter
+stops,stop_name,en,Aalter,,,Aalter
+stops,stop_name,fr,Maria-Aalter,,,Maria-Aalter
+stops,stop_name,nl,Maria-Aalter,,,Maria-Aalter
+stops,stop_name,de,Maria-Aalter,,,Maria-Aalter
+stops,stop_name,en,Maria-Aalter,,,Maria-Aalter
+stops,stop_name,fr,Beernem,,,Beernem
+stops,stop_name,nl,Beernem,,,Beernem
+stops,stop_name,de,Beernem,,,Beernem
+stops,stop_name,en,Beernem,,,Beernem
+stops,stop_name,fr,Oostkamp,,,Oostkamp
+stops,stop_name,nl,Oostkamp,,,Oostkamp
+stops,stop_name,de,Oostkamp,,,Oostkamp
+stops,stop_name,en,Oostkamp,,,Oostkamp
+stops,stop_name,fr,Bruges-Saint-Pierre,,,Bruges-Saint-Pierre
+stops,stop_name,nl,Brugge-Sint-Pieters,,,Bruges-Saint-Pierre
+stops,stop_name,de,Brugge-Sint-Pieters / Bruges-Saint-Pierre,,,Bruges-Saint-Pierre
+stops,stop_name,en,Bruges-Saint-Pierre / Brugge-Sint-Pieters,,,Bruges-Saint-Pierre
+stops,stop_name,fr,Bruges,,,Bruges
+stops,stop_name,nl,Brugge,,,Bruges
+stops,stop_name,de,Brugge / Bruges,,,Bruges
+stops,stop_name,en,Bruges / Brugge,,,Bruges
+stops,stop_name,fr,Rebaix,,,Rebaix
+stops,stop_name,nl,Rebaix,,,Rebaix
+stops,stop_name,de,Rebaix,,,Rebaix
+stops,stop_name,en,Rebaix,,,Rebaix
+stops,stop_name,fr,Papignies,,,Papignies
+stops,stop_name,nl,Papegem,,,Papignies
+stops,stop_name,de,Papignies,,,Papignies
+stops,stop_name,en,Papignies,,,Papignies
+stops,stop_name,fr,Houraing,,,Houraing
+stops,stop_name,nl,Houraing,,,Houraing
+stops,stop_name,de,Houraing,,,Houraing
+stops,stop_name,en,Houraing,,,Houraing
+stops,stop_name,fr,Acren,,,Acren
+stops,stop_name,nl,Acren,,,Acren
+stops,stop_name,de,Acren,,,Acren
+stops,stop_name,en,Acren,,,Acren
+stops,stop_name,fr,Lessines,,,Lessines
+stops,stop_name,nl,Lessen,,,Lessines
+stops,stop_name,de,Lessen / Lessines,,,Lessines
+stops,stop_name,en,Lessines / Lessen,,,Lessines
+stops,stop_name,fr,Leuze,,,Leuze
+stops,stop_name,nl,Leuze,,,Leuze
+stops,stop_name,de,Leuze,,,Leuze
+stops,stop_name,en,Leuze,,,Leuze
+stops,stop_name,fr,Cambron-Casteau,,,Cambron-Casteau
+stops,stop_name,nl,Cambron-Casteau,,,Cambron-Casteau
+stops,stop_name,de,Cambron-Casteau,,,Cambron-Casteau
+stops,stop_name,en,Cambron-Casteau,,,Cambron-Casteau
+stops,stop_name,fr,Brugelette,,,Brugelette
+stops,stop_name,nl,Brugelette,,,Brugelette
+stops,stop_name,de,Brugelette,,,Brugelette
+stops,stop_name,en,Brugelette,,,Brugelette
+stops,stop_name,fr,Mévergnies-Attre,,,Mévergnies-Attre
+stops,stop_name,nl,Mévergnies-Attre,,,Mévergnies-Attre
+stops,stop_name,de,Mévergnies-Attre,,,Mévergnies-Attre
+stops,stop_name,en,Mévergnies-Attre,,,Mévergnies-Attre
+stops,stop_name,fr,Maffle,,,Maffle
+stops,stop_name,nl,Maffle,,,Maffle
+stops,stop_name,de,Maffle,,,Maffle
+stops,stop_name,en,Maffle,,,Maffle
+stops,stop_name,fr,Ath,,,Ath
+stops,stop_name,nl,Aat,,,Ath
+stops,stop_name,de,Aat / Ath,,,Ath
+stops,stop_name,en,Ath / Aat,,,Ath
+stops,stop_name,fr,Herseaux,,,Herseaux
+stops,stop_name,nl,Herzeeuw,,,Herseaux
+stops,stop_name,de,Herseaux,,,Herseaux
+stops,stop_name,en,Herseaux,,,Herseaux
+stops,stop_name,fr,Mouscron,,,Mouscron
+stops,stop_name,nl,Moeskroen,,,Mouscron
+stops,stop_name,de,Moeskroen / Mouscron,,,Mouscron
+stops,stop_name,en,Mouscron / Moeskroen,,,Mouscron
+stops,stop_name,fr,Maubray,,,Maubray
+stops,stop_name,nl,Maubray,,,Maubray
+stops,stop_name,de,Maubray,,,Maubray
+stops,stop_name,en,Maubray,,,Maubray
+stops,stop_name,fr,Antoing,,,Antoing
+stops,stop_name,nl,Antoing,,,Antoing
+stops,stop_name,de,Antoing,,,Antoing
+stops,stop_name,en,Antoing,,,Antoing
+stops,stop_name,fr,Froyennes,,,Froyennes
+stops,stop_name,nl,Froyennes,,,Froyennes
+stops,stop_name,de,Froyennes,,,Froyennes
+stops,stop_name,en,Froyennes,,,Froyennes
+stops,stop_name,fr,Tournai,,,Tournai
+stops,stop_name,nl,Doornik,,,Tournai
+stops,stop_name,de,Doornik / Tournai,,,Tournai
+stops,stop_name,en,Tournai / Doornik,,,Tournai
+stops,stop_name,fr,Callenelle,,,Callenelle
+stops,stop_name,nl,Callenelle,,,Callenelle
+stops,stop_name,de,Callenelle,,,Callenelle
+stops,stop_name,en,Callenelle,,,Callenelle
+stops,stop_name,fr,Péruwelz,,,Péruwelz
+stops,stop_name,nl,Péruwelz,,,Péruwelz
+stops,stop_name,de,Péruwelz,,,Péruwelz
+stops,stop_name,en,Péruwelz,,,Péruwelz
+stops,stop_name,fr,Blaton,,,Blaton
+stops,stop_name,nl,Blaton,,,Blaton
+stops,stop_name,de,Blaton,,,Blaton
+stops,stop_name,en,Blaton,,,Blaton
+stops,stop_name,fr,Harchies,,,Harchies
+stops,stop_name,nl,Harchies,,,Harchies
+stops,stop_name,de,Harchies,,,Harchies
+stops,stop_name,en,Harchies,,,Harchies
+stops,stop_name,fr,Ville-Pommeroeul,,,Ville-Pommeroeul
+stops,stop_name,nl,Ville-Pommeroeul,,,Ville-Pommeroeul
+stops,stop_name,de,Ville-Pommeroeul,,,Ville-Pommeroeul
+stops,stop_name,en,Ville-Pommeroeul,,,Ville-Pommeroeul
+stops,stop_name,fr,Jemappes,,,Jemappes
+stops,stop_name,nl,Jemappes,,,Jemappes
+stops,stop_name,de,Jemappes,,,Jemappes
+stops,stop_name,en,Jemappes,,,Jemappes
+stops,stop_name,fr,Quaregnon,,,Quaregnon
+stops,stop_name,nl,Quaregnon,,,Quaregnon
+stops,stop_name,de,Quaregnon,,,Quaregnon
+stops,stop_name,en,Quaregnon,,,Quaregnon
+stops,stop_name,fr,Thulin,,,Thulin
+stops,stop_name,nl,Thulin,,,Thulin
+stops,stop_name,de,Thulin,,,Thulin
+stops,stop_name,en,Thulin,,,Thulin
+stops,stop_name,fr,Quiévrain,,,Quiévrain
+stops,stop_name,nl,Quiévrain,,,Quiévrain
+stops,stop_name,de,Quiévrain,,,Quiévrain
+stops,stop_name,en,Quiévrain,,,Quiévrain
+stops,stop_name,fr,Hainin,,,Hainin
+stops,stop_name,nl,Hainin,,,Hainin
+stops,stop_name,de,Hainin,,,Hainin
+stops,stop_name,en,Hainin,,,Hainin
+stops,stop_name,fr,Boussu,,,Boussu
+stops,stop_name,nl,Boussu,,,Boussu
+stops,stop_name,de,Boussu,,,Boussu
+stops,stop_name,en,Boussu,,,Boussu
+stops,stop_name,fr,Saint-Ghislain,,,Saint-Ghislain
+stops,stop_name,nl,Saint-Ghislain,,,Saint-Ghislain
+stops,stop_name,de,Saint-Ghislain,,,Saint-Ghislain
+stops,stop_name,en,Saint-Ghislain,,,Saint-Ghislain
+stops,stop_name,fr,Tubize,,,Tubize
+stops,stop_name,nl,Tubeke,,,Tubize
+stops,stop_name,de,Tubeke / Tubize,,,Tubize
+stops,stop_name,en,Tubize / Tubeke,,,Tubize
+stops,stop_name,fr,Silly,,,Silly
+stops,stop_name,nl,Opzullik,,,Silly
+stops,stop_name,de,Opzullik / Silly,,,Silly
+stops,stop_name,en,Silly / Opzullik,,,Silly
+stops,stop_name,fr,Enghien,,,Enghien
+stops,stop_name,nl,Edingen,,,Enghien
+stops,stop_name,de,Edingen / Enghien,,,Enghien
+stops,stop_name,en,Enghien / Edingen,,,Enghien
+stops,stop_name,fr,Familleureux,,,Familleureux
+stops,stop_name,nl,Familleureux,,,Familleureux
+stops,stop_name,de,Familleureux,,,Familleureux
+stops,stop_name,en,Familleureux,,,Familleureux
+stops,stop_name,fr,Marche-lez-Ecaussinnes,,,Marche-lez-Ecaussinnes
+stops,stop_name,nl,Marche-lez-Ecaussinnes,,,Marche-lez-Ecaussinnes
+stops,stop_name,de,Marche-lez-Ecaussinnes,,,Marche-lez-Ecaussinnes
+stops,stop_name,en,Marche-lez-Ecaussinnes,,,Marche-lez-Ecaussinnes
+stops,stop_name,fr,Ecaussinnes,,,Ecaussinnes
+stops,stop_name,nl,Ecaussinnes,,,Ecaussinnes
+stops,stop_name,de,Ecaussinnes,,,Ecaussinnes
+stops,stop_name,en,Ecaussinnes,,,Ecaussinnes
+stops,stop_name,fr,Neufvilles,,,Neufvilles
+stops,stop_name,nl,Neufvilles,,,Neufvilles
+stops,stop_name,de,Neufvilles,,,Neufvilles
+stops,stop_name,en,Neufvilles,,,Neufvilles
+stops,stop_name,fr,Soignies,,,Soignies
+stops,stop_name,nl,Zinnik,,,Soignies
+stops,stop_name,de,Zinnik / Soignies,,,Soignies
+stops,stop_name,en,Soignies / Zinnik,,,Soignies
+stops,stop_name,fr,Hennuyères,,,Hennuyères
+stops,stop_name,nl,Hennuyères,,,Hennuyères
+stops,stop_name,de,Hennuyères,,,Hennuyères
+stops,stop_name,en,Hennuyères,,,Hennuyères
+stops,stop_name,fr,Braine-le-Comte,,,Braine-le-Comte
+stops,stop_name,nl,'s-Gravenbrakel,,,Braine-le-Comte
+stops,stop_name,de,'s-Gravenbrakel / Braine-le-Comte,,,Braine-le-Comte
+stops,stop_name,en,Braine-le-Comte / 's-Gravenbrakel,,,Braine-le-Comte
+stops,stop_name,fr,Manage,,,Manage
+stops,stop_name,nl,Manage,,,Manage
+stops,stop_name,de,Manage,,,Manage
+stops,stop_name,en,Manage,,,Manage
+stops,stop_name,fr,Binche,,,Binche
+stops,stop_name,nl,Binche,,,Binche
+stops,stop_name,de,Binche,,,Binche
+stops,stop_name,en,Binche,,,Binche
+stops,stop_name,fr,Leval,,,Leval
+stops,stop_name,nl,Leval,,,Leval
+stops,stop_name,de,Leval,,,Leval
+stops,stop_name,en,Leval,,,Leval
+stops,stop_name,fr,Carnières,,,Carnières
+stops,stop_name,nl,Carnières,,,Carnières
+stops,stop_name,de,Carnières,,,Carnières
+stops,stop_name,en,Carnières,,,Carnières
+stops,stop_name,fr,Morlanwelz,,,Morlanwelz
+stops,stop_name,nl,Morlanwelz,,,Morlanwelz
+stops,stop_name,de,Morlanwelz,,,Morlanwelz
+stops,stop_name,en,Morlanwelz,,,Morlanwelz
+stops,stop_name,fr,La Louvière-Sud,,,La Louvière-Sud
+stops,stop_name,nl,La Louvière-Zuid,,,La Louvière-Sud
+stops,stop_name,de,La Louvière-Zuid / La Louvière-Sud,,,La Louvière-Sud
+stops,stop_name,en,La Louvière-Sud / La Louvière-Zuid,,,La Louvière-Sud
+stops,stop_name,fr,La Louvière-Centre,,,La Louvière-Centre
+stops,stop_name,nl,La Louvière-Centrum,,,La Louvière-Centre
+stops,stop_name,de,La Louvière-Centre,,,La Louvière-Centre
+stops,stop_name,en,La Louvière-Centre,,,La Louvière-Centre
+stops,stop_name,fr,Frameries,,,Frameries
+stops,stop_name,nl,Frameries,,,Frameries
+stops,stop_name,de,Frameries,,,Frameries
+stops,stop_name,en,Frameries,,,Frameries
+stops,stop_name,fr,Genly,,,Genly
+stops,stop_name,nl,Genly,,,Genly
+stops,stop_name,de,Genly,,,Genly
+stops,stop_name,en,Genly,,,Genly
+stops,stop_name,fr,Quévy,,,Quévy
+stops,stop_name,nl,Quévy,,,Quévy
+stops,stop_name,de,Quévy,,,Quévy
+stops,stop_name,en,Quévy,,,Quévy
+stops,stop_name,fr,Bracquegnies,,,Bracquegnies
+stops,stop_name,nl,Bracquegnies,,,Bracquegnies
+stops,stop_name,de,Bracquegnies,,,Bracquegnies
+stops,stop_name,en,Bracquegnies,,,Bracquegnies
+stops,stop_name,fr,Thieu,,,Thieu
+stops,stop_name,nl,Thieu,,,Thieu
+stops,stop_name,de,Thieu,,,Thieu
+stops,stop_name,en,Thieu,,,Thieu
+stops,stop_name,fr,Havré,,,Havré
+stops,stop_name,nl,Havré,,,Havré
+stops,stop_name,de,Havré,,,Havré
+stops,stop_name,en,Havré,,,Havré
+stops,stop_name,fr,Obourg,,,Obourg
+stops,stop_name,nl,Obourg,,,Obourg
+stops,stop_name,de,Obourg,,,Obourg
+stops,stop_name,en,Obourg,,,Obourg
+stops,stop_name,fr,Nimy,,,Nimy
+stops,stop_name,nl,Nimy,,,Nimy
+stops,stop_name,de,Nimy,,,Nimy
+stops,stop_name,en,Nimy,,,Nimy
+stops,stop_name,fr,Lens,,,Lens
+stops,stop_name,nl,Lens,,,Lens
+stops,stop_name,de,Lens,,,Lens
+stops,stop_name,en,Lens,,,Lens
+stops,stop_name,fr,Masnuy-Saint-Pierre,,,Masnuy-Saint-Pierre
+stops,stop_name,nl,Masnuy-Saint-Pierre,,,Masnuy-Saint-Pierre
+stops,stop_name,de,Masnuy-Saint-Pierre,,,Masnuy-Saint-Pierre
+stops,stop_name,en,Masnuy-Saint-Pierre,,,Masnuy-Saint-Pierre
+stops,stop_name,fr,Jurbise,,,Jurbise
+stops,stop_name,nl,Jurbeke,,,Jurbise
+stops,stop_name,de,Jurbeke / Jurbise,,,Jurbise
+stops,stop_name,en,Jurbise / Jurbeke,,,Jurbise
+stops,stop_name,fr,Erbisoeul,,,Erbisoeul
+stops,stop_name,nl,Erbisoeul,,,Erbisoeul
+stops,stop_name,de,Erbisoeul,,,Erbisoeul
+stops,stop_name,en,Erbisoeul,,,Erbisoeul
+stops,stop_name,fr,Ghlin,,,Ghlin
+stops,stop_name,nl,Ghlin,,,Ghlin
+stops,stop_name,de,Ghlin,,,Ghlin
+stops,stop_name,en,Ghlin,,,Ghlin
+stops,stop_name,fr,Mons,,,Mons
+stops,stop_name,nl,Bergen,,,Mons
+stops,stop_name,de,Bergen / Mons,,,Mons
+stops,stop_name,en,Mons / Bergen,,,Mons
+stops,stop_name,fr,Couvin,,,Couvin
+stops,stop_name,nl,Couvin,,,Couvin
+stops,stop_name,de,Couvin,,,Couvin
+stops,stop_name,en,Couvin,,,Couvin
+stops,stop_name,fr,Mariembourg,,,Mariembourg
+stops,stop_name,nl,Mariembourg,,,Mariembourg
+stops,stop_name,de,Mariembourg,,,Mariembourg
+stops,stop_name,en,Mariembourg,,,Mariembourg
+stops,stop_name,fr,Jemeppe-sur-Sambre,,,Jemeppe-sur-Sambre
+stops,stop_name,nl,Jemeppe-sur-Sambre,,,Jemeppe-sur-Sambre
+stops,stop_name,de,Jemeppe-sur-Sambre,,,Jemeppe-sur-Sambre
+stops,stop_name,en,Jemeppe-sur-Sambre,,,Jemeppe-sur-Sambre
+stops,stop_name,fr,Auvelais,,,Auvelais
+stops,stop_name,nl,Auvelais,,,Auvelais
+stops,stop_name,de,Auvelais,,,Auvelais
+stops,stop_name,en,Auvelais,,,Auvelais
+stops,stop_name,fr,Tamines,,,Tamines
+stops,stop_name,nl,Tamines,,,Tamines
+stops,stop_name,de,Tamines,,,Tamines
+stops,stop_name,en,Tamines,,,Tamines
+stops,stop_name,fr,Aiseau,,,Aiseau
+stops,stop_name,nl,Aiseau,,,Aiseau
+stops,stop_name,de,Aiseau,,,Aiseau
+stops,stop_name,en,Aiseau,,,Aiseau
+stops,stop_name,fr,Farciennes,,,Farciennes
+stops,stop_name,nl,Farciennes,,,Farciennes
+stops,stop_name,de,Farciennes,,,Farciennes
+stops,stop_name,en,Farciennes,,,Farciennes
+stops,stop_name,fr,Le Campinaire,,,Le Campinaire
+stops,stop_name,nl,Le Campinaire,,,Le Campinaire
+stops,stop_name,de,Le Campinaire,,,Le Campinaire
+stops,stop_name,en,Le Campinaire,,,Le Campinaire
+stops,stop_name,fr,Couillet,,,Couillet
+stops,stop_name,nl,Couillet,,,Couillet
+stops,stop_name,de,Couillet,,,Couillet
+stops,stop_name,en,Couillet,,,Couillet
+stops,stop_name,fr,Châtelet,,,Châtelet
+stops,stop_name,nl,Châtelet,,,Châtelet
+stops,stop_name,de,Châtelet,,,Châtelet
+stops,stop_name,en,Châtelet,,,Châtelet
+stops,stop_name,fr,Ham-sur-Heure,,,Ham-sur-Heure
+stops,stop_name,nl,Ham-sur-Heure,,,Ham-sur-Heure
+stops,stop_name,de,Ham-sur-Heure,,,Ham-sur-Heure
+stops,stop_name,en,Ham-sur-Heure,,,Ham-sur-Heure
+stops,stop_name,fr,Cour-sur-Heure,,,Cour-sur-Heure
+stops,stop_name,nl,Cour-sur-Heure,,,Cour-sur-Heure
+stops,stop_name,de,Cour-sur-Heure,,,Cour-sur-Heure
+stops,stop_name,en,Cour-sur-Heure,,,Cour-sur-Heure
+stops,stop_name,fr,Berzée,,,Berzée
+stops,stop_name,nl,Berzée,,,Berzée
+stops,stop_name,de,Berzée,,,Berzée
+stops,stop_name,en,Berzée,,,Berzée
+stops,stop_name,fr,Pry,,,Pry
+stops,stop_name,nl,Pry,,,Pry
+stops,stop_name,de,Pry,,,Pry
+stops,stop_name,en,Pry,,,Pry
+stops,stop_name,fr,Yves-Gomezée,,,Yves-Gomezée
+stops,stop_name,nl,Yves-Gomezée,,,Yves-Gomezée
+stops,stop_name,de,Yves-Gomezée,,,Yves-Gomezée
+stops,stop_name,en,Yves-Gomezée,,,Yves-Gomezée
+stops,stop_name,fr,Philippeville,,,Philippeville
+stops,stop_name,nl,Philippeville,,,Philippeville
+stops,stop_name,de,Philippeville,,,Philippeville
+stops,stop_name,en,Philippeville,,,Philippeville
+stops,stop_name,fr,Walcourt,,,Walcourt
+stops,stop_name,nl,Walcourt,,,Walcourt
+stops,stop_name,de,Walcourt,,,Walcourt
+stops,stop_name,en,Walcourt,,,Walcourt
+stops,stop_name,fr,Faux,,,Faux
+stops,stop_name,nl,Faux,,,Faux
+stops,stop_name,de,Faux,,,Faux
+stops,stop_name,en,Faux,,,Faux
+stops,stop_name,fr,La Roche (brabant),,,La Roche (brabant)
+stops,stop_name,nl,La Roche (brabant),,,La Roche (brabant)
+stops,stop_name,de,La Roche(Brabant),,,La Roche (brabant)
+stops,stop_name,en,La Roche(Brabant),,,La Roche (brabant)
+stops,stop_name,fr,Villers-la-Ville,,,Villers-la-Ville
+stops,stop_name,nl,Villers-la-Ville,,,Villers-la-Ville
+stops,stop_name,de,Villers-la-Ville,,,Villers-la-Ville
+stops,stop_name,en,Villers-la-Ville,,,Villers-la-Ville
+stops,stop_name,fr,Tilly,,,Tilly
+stops,stop_name,nl,Tilly,,,Tilly
+stops,stop_name,de,Tilly,,,Tilly
+stops,stop_name,en,Tilly,,,Tilly
+stops,stop_name,fr,Ligny,,,Ligny
+stops,stop_name,nl,Ligny,,,Ligny
+stops,stop_name,de,Ligny,,,Ligny
+stops,stop_name,en,Ligny,,,Ligny
+stops,stop_name,fr,Fleurus,,,Fleurus
+stops,stop_name,nl,Fleurus,,,Fleurus
+stops,stop_name,de,Fleurus,,,Fleurus
+stops,stop_name,en,Fleurus,,,Fleurus
+stops,stop_name,fr,Lodelinsart,,,Lodelinsart
+stops,stop_name,nl,Lodelinsart,,,Lodelinsart
+stops,stop_name,de,Lodelinsart,,,Lodelinsart
+stops,stop_name,en,Lodelinsart,,,Lodelinsart
+stops,stop_name,fr,Charleroi-Ouest,,,Charleroi-Ouest
+stops,stop_name,nl,Charleroi-West,,,Charleroi-Ouest
+stops,stop_name,de,Charleroi-West / Charleroi-Ouest,,,Charleroi-Ouest
+stops,stop_name,en,Charleroi-Ouest / Charleroi-West,,,Charleroi-Ouest
+stops,stop_name,fr,Charleroi-Central,,,Charleroi-Central
+stops,stop_name,nl,Charleroi-Centraal,,,Charleroi-Central
+stops,stop_name,de,Charleroi-Central,,,Charleroi-Central
+stops,stop_name,en,Charleroi-Central,,,Charleroi-Central
+stops,stop_name,fr,Marchienne-Zone,,,Marchienne-Zone
+stops,stop_name,nl,Marchienne-Zone,,,Marchienne-Zone
+stops,stop_name,de,Marchienne-Zone,,,Marchienne-Zone
+stops,stop_name,en,Marchienne-Zone,,,Marchienne-Zone
+stops,stop_name,fr,Landelies,,,Landelies
+stops,stop_name,nl,Landelies,,,Landelies
+stops,stop_name,de,Landelies,,,Landelies
+stops,stop_name,en,Landelies,,,Landelies
+stops,stop_name,fr,Hourpes,,,Hourpes
+stops,stop_name,nl,Hourpes,,,Hourpes
+stops,stop_name,de,Hourpes,,,Hourpes
+stops,stop_name,en,Hourpes,,,Hourpes
+stops,stop_name,fr,Thuin,,,Thuin
+stops,stop_name,nl,Thuin,,,Thuin
+stops,stop_name,de,Thuin,,,Thuin
+stops,stop_name,en,Thuin,,,Thuin
+stops,stop_name,fr,Lobbes,,,Lobbes
+stops,stop_name,nl,Lobbes,,,Lobbes
+stops,stop_name,de,Lobbes,,,Lobbes
+stops,stop_name,en,Lobbes,,,Lobbes
+stops,stop_name,fr,Fontaine Valmont,,,Fontaine Valmont
+stops,stop_name,nl,Fontaine Valmont,,,Fontaine Valmont
+stops,stop_name,de,Fontaine-Valmont,,,Fontaine Valmont
+stops,stop_name,en,Fontaine-Valmont,,,Fontaine Valmont
+stops,stop_name,fr,Labuissière,,,Labuissière
+stops,stop_name,nl,Labuissière,,,Labuissière
+stops,stop_name,de,Labuissière,,,Labuissière
+stops,stop_name,en,Labuissière,,,Labuissière
+stops,stop_name,fr,Solre-sur-Sambre,,,Solre-sur-Sambre
+stops,stop_name,nl,Solre-sur-Sambre,,,Solre-sur-Sambre
+stops,stop_name,de,Solre-sur-Sambre,,,Solre-sur-Sambre
+stops,stop_name,en,Solre-sur-Sambre,,,Solre-sur-Sambre
+stops,stop_name,fr,Erquelinnes-Village,,,Erquelinnes-Village
+stops,stop_name,nl,Erquelinnes-Dorp,,,Erquelinnes-Village
+stops,stop_name,de,Erquelinnes-Dorp / Erquelinnes-Village,,,Erquelinnes-Village
+stops,stop_name,en,Erquelinnes-Village / Erquelinnes-Dorp,,,Erquelinnes-Village
+stops,stop_name,fr,Erquelinnes,,,Erquelinnes
+stops,stop_name,nl,Erquelinnes,,,Erquelinnes
+stops,stop_name,de,Erquelinnes,,,Erquelinnes
+stops,stop_name,en,Erquelinnes,,,Erquelinnes
+stops,stop_name,fr,Forchies,,,Forchies
+stops,stop_name,nl,Forchies,,,Forchies
+stops,stop_name,de,Forchies,,,Forchies
+stops,stop_name,en,Forchies,,,Forchies
+stops,stop_name,fr,Piéton,,,Piéton
+stops,stop_name,nl,Piéton,,,Piéton
+stops,stop_name,de,Piéton,,,Piéton
+stops,stop_name,en,Piéton,,,Piéton
+stops,stop_name,fr,Godarville,,,Godarville
+stops,stop_name,nl,Godarville,,,Godarville
+stops,stop_name,de,Godarville,,,Godarville
+stops,stop_name,en,Godarville,,,Godarville
+stops,stop_name,fr,Gouy-lez-Piéton,,,Gouy-lez-Piéton
+stops,stop_name,nl,Gouy-lez-Piéton,,,Gouy-lez-Piéton
+stops,stop_name,de,Gouy-lez-Piéton,,,Gouy-lez-Piéton
+stops,stop_name,en,Gouy-lez-Piéton,,,Gouy-lez-Piéton
+stops,stop_name,fr,Pont-à-Celles,,,Pont-à-Celles
+stops,stop_name,nl,Pont-à-Celles,,,Pont-à-Celles
+stops,stop_name,de,Pont-à-Celles,,,Pont-à-Celles
+stops,stop_name,en,Pont-à-Celles,,,Pont-à-Celles
+stops,stop_name,fr,Obaix-Buzet,,,Obaix-Buzet
+stops,stop_name,nl,Obaix-Buzet,,,Obaix-Buzet
+stops,stop_name,de,Obaix-Buzet,,,Obaix-Buzet
+stops,stop_name,en,Obaix-Buzet,,,Obaix-Buzet
+stops,stop_name,fr,Luttre,,,Luttre
+stops,stop_name,nl,Luttre,,,Luttre
+stops,stop_name,de,Luttre,,,Luttre
+stops,stop_name,en,Luttre,,,Luttre
+stops,stop_name,fr,Courcelles-Motte,,,Courcelles-Motte
+stops,stop_name,nl,Courcelles-Motte,,,Courcelles-Motte
+stops,stop_name,de,Courcelles-Motte,,,Courcelles-Motte
+stops,stop_name,en,Courcelles-Motte,,,Courcelles-Motte
+stops,stop_name,fr,Roux,,,Roux
+stops,stop_name,nl,Roux,,,Roux
+stops,stop_name,de,Roux,,,Roux
+stops,stop_name,en,Roux,,,Roux
+stops,stop_name,fr,Beignée,,,Beignée
+stops,stop_name,nl,Beignée,,,Beignée
+stops,stop_name,de,Beignée,,,Beignée
+stops,stop_name,en,Beignée,,,Beignée
+stops,stop_name,fr,Jamioulx,,,Jamioulx
+stops,stop_name,nl,Jamioulx,,,Jamioulx
+stops,stop_name,de,Jamioulx,,,Jamioulx
+stops,stop_name,en,Jamioulx,,,Jamioulx
+stops,stop_name,fr,Marchienne-au-Pont,,,Marchienne-au-Pont
+stops,stop_name,nl,Marchienne-au-Pont,,,Marchienne-au-Pont
+stops,stop_name,de,Marchienne-au-Pont,,,Marchienne-au-Pont
+stops,stop_name,en,Marchienne-au-Pont,,,Marchienne-au-Pont
+stops,stop_name,fr,Florenville,,,Florenville
+stops,stop_name,nl,Florenville,,,Florenville
+stops,stop_name,de,Florenville,,,Florenville
+stops,stop_name,en,Florenville,,,Florenville
+stops,stop_name,fr,Messancy,,,Messancy
+stops,stop_name,nl,Messancy,,,Messancy
+stops,stop_name,de,Messancy,,,Messancy
+stops,stop_name,en,Messancy,,,Messancy
+stops,stop_name,fr,Aubange,,,Aubange
+stops,stop_name,nl,Aubange,,,Aubange
+stops,stop_name,de,Aubange,,,Aubange
+stops,stop_name,en,Aubange,,,Aubange
+stops,stop_name,fr,Athus,,,Athus
+stops,stop_name,nl,Athus,,,Athus
+stops,stop_name,de,Athus,,,Athus
+stops,stop_name,en,Athus,,,Athus
+stops,stop_name,fr,Halanzy,,,Halanzy
+stops,stop_name,nl,Halanzy,,,Halanzy
+stops,stop_name,de,Halanzy,,,Halanzy
+stops,stop_name,en,Halanzy,,,Halanzy
+stops,stop_name,fr,Virton,,,Virton
+stops,stop_name,nl,Virton,,,Virton
+stops,stop_name,de,Virton,,,Virton
+stops,stop_name,en,Virton,,,Virton
+stops,stop_name,fr,Neufchâteau,,,Neufchâteau
+stops,stop_name,nl,Neufchâteau,,,Neufchâteau
+stops,stop_name,de,Neufchâteau,,,Neufchâteau
+stops,stop_name,en,Neufchâteau,,,Neufchâteau
+stops,stop_name,fr,Marbehan,,,Marbehan
+stops,stop_name,nl,Marbehan,,,Marbehan
+stops,stop_name,de,Marbehan,,,Marbehan
+stops,stop_name,en,Marbehan,,,Marbehan
+stops,stop_name,fr,Habay,,,Habay
+stops,stop_name,nl,Habay,,,Habay
+stops,stop_name,de,Habay,,,Habay
+stops,stop_name,en,Habay,,,Habay
+stops,stop_name,fr,Viville,,,Viville
+stops,stop_name,nl,Viville,,,Viville
+stops,stop_name,de,Viville,,,Viville
+stops,stop_name,en,Viville,,,Viville
+stops,stop_name,fr,Arlon,,,Arlon
+stops,stop_name,nl,Aarlen,,,Arlon
+stops,stop_name,de,Aarlen / Arlon,,,Arlon
+stops,stop_name,en,Arlon / Aarlen,,,Arlon
+stops,stop_name,fr,Gedinne,,,Gedinne
+stops,stop_name,nl,Gedinne,,,Gedinne
+stops,stop_name,de,Gedinne,,,Gedinne
+stops,stop_name,en,Gedinne,,,Gedinne
+stops,stop_name,fr,Graide,,,Graide
+stops,stop_name,nl,Graide,,,Graide
+stops,stop_name,de,Graide,,,Graide
+stops,stop_name,en,Graide,,,Graide
+stops,stop_name,fr,Carlsbourg,,,Carlsbourg
+stops,stop_name,nl,Carlsbourg,,,Carlsbourg
+stops,stop_name,de,Carlsbourg,,,Carlsbourg
+stops,stop_name,en,Carlsbourg,,,Carlsbourg
+stops,stop_name,fr,Paliseul,,,Paliseul
+stops,stop_name,nl,Paliseul,,,Paliseul
+stops,stop_name,de,Paliseul,,,Paliseul
+stops,stop_name,en,Paliseul,,,Paliseul
+stops,stop_name,fr,Bertrix,,,Bertrix
+stops,stop_name,nl,Bertrix,,,Bertrix
+stops,stop_name,de,Bertrix,,,Bertrix
+stops,stop_name,en,Bertrix,,,Bertrix
+stops,stop_name,fr,Poix-Saint-Hubert,,,Poix-Saint-Hubert
+stops,stop_name,nl,Poix-Saint-Hubert,,,Poix-Saint-Hubert
+stops,stop_name,de,Poix-Saint-Hubert,,,Poix-Saint-Hubert
+stops,stop_name,en,Poix-Saint-Hubert,,,Poix-Saint-Hubert
+stops,stop_name,fr,Libramont,,,Libramont
+stops,stop_name,nl,Libramont,,,Libramont
+stops,stop_name,de,Libramont,,,Libramont
+stops,stop_name,en,Libramont,,,Libramont
+stops,stop_name,fr,Naninne,,,Naninne
+stops,stop_name,nl,Naninne,,,Naninne
+stops,stop_name,de,Naninne,,,Naninne
+stops,stop_name,en,Naninne,,,Naninne
+stops,stop_name,fr,Sart-Bernard,,,Sart-Bernard
+stops,stop_name,nl,Sart-Bernard,,,Sart-Bernard
+stops,stop_name,de,Sart-Bernard,,,Sart-Bernard
+stops,stop_name,en,Sart-Bernard,,,Sart-Bernard
+stops,stop_name,fr,Courrière,,,Courrière
+stops,stop_name,nl,Courrière,,,Courrière
+stops,stop_name,de,Courrière,,,Courrière
+stops,stop_name,en,Courrière,,,Courrière
+stops,stop_name,fr,Assesse,,,Assesse
+stops,stop_name,nl,Assesse,,,Assesse
+stops,stop_name,de,Assesse,,,Assesse
+stops,stop_name,en,Assesse,,,Assesse
+stops,stop_name,fr,Natoye,,,Natoye
+stops,stop_name,nl,Natoye,,,Natoye
+stops,stop_name,de,Natoye,,,Natoye
+stops,stop_name,en,Natoye,,,Natoye
+stops,stop_name,fr,Haversin,,,Haversin
+stops,stop_name,nl,Haversin,,,Haversin
+stops,stop_name,de,Haversin,,,Haversin
+stops,stop_name,en,Haversin,,,Haversin
+stops,stop_name,fr,Chapois,,,Chapois
+stops,stop_name,nl,Chapois,,,Chapois
+stops,stop_name,de,Chapois,,,Chapois
+stops,stop_name,en,Chapois,,,Chapois
+stops,stop_name,fr,Leignon,,,Leignon
+stops,stop_name,nl,Leignon,,,Leignon
+stops,stop_name,de,Leignon,,,Leignon
+stops,stop_name,en,Leignon,,,Leignon
+stops,stop_name,fr,Ciney,,,Ciney
+stops,stop_name,nl,Ciney,,,Ciney
+stops,stop_name,de,Ciney,,,Ciney
+stops,stop_name,en,Ciney,,,Ciney
+stops,stop_name,fr,Bomal,,,Bomal
+stops,stop_name,nl,Bomal,,,Bomal
+stops,stop_name,de,Bomal,,,Bomal
+stops,stop_name,en,Bomal,,,Bomal
+stops,stop_name,fr,Barvaux,,,Barvaux
+stops,stop_name,nl,Barvaux,,,Barvaux
+stops,stop_name,de,Barvaux,,,Barvaux
+stops,stop_name,en,Barvaux,,,Barvaux
+stops,stop_name,fr,Melreux-Hotton,,,Melreux-Hotton
+stops,stop_name,nl,Melreux-Hotton,,,Melreux-Hotton
+stops,stop_name,de,Melreux-Hotton,,,Melreux-Hotton
+stops,stop_name,en,Melreux-Hotton,,,Melreux-Hotton
+stops,stop_name,fr,Marche-en-Famenne,,,Marche-en-Famenne
+stops,stop_name,nl,Marche-en-Famenne,,,Marche-en-Famenne
+stops,stop_name,de,Marche-en-Famenne,,,Marche-en-Famenne
+stops,stop_name,en,Marche-en-Famenne,,,Marche-en-Famenne
+stops,stop_name,fr,Aye,,,Aye
+stops,stop_name,nl,Aye,,,Aye
+stops,stop_name,de,Aye,,,Aye
+stops,stop_name,en,Aye,,,Aye
+stops,stop_name,fr,Marloie,,,Marloie
+stops,stop_name,nl,Marloie,,,Marloie
+stops,stop_name,de,Marloie,,,Marloie
+stops,stop_name,en,Marloie,,,Marloie
+stops,stop_name,fr,Grupont,,,Grupont
+stops,stop_name,nl,Grupont,,,Grupont
+stops,stop_name,de,Grupont,,,Grupont
+stops,stop_name,en,Grupont,,,Grupont
+stops,stop_name,fr,Forrières,,,Forrières
+stops,stop_name,nl,Forrières,,,Forrières
+stops,stop_name,de,Forrières,,,Forrières
+stops,stop_name,en,Forrières,,,Forrières
+stops,stop_name,fr,Rochefort-Jemelle,,,Rochefort-Jemelle
+stops,stop_name,nl,Rochefort-Jemelle,,,Rochefort-Jemelle
+stops,stop_name,de,Rochefort-Jemelle,,,Rochefort-Jemelle
+stops,stop_name,en,Rochefort-Jemelle,,,Rochefort-Jemelle
+stops,stop_name,fr,Beauraing,,,Beauraing
+stops,stop_name,nl,Beauraing,,,Beauraing
+stops,stop_name,de,Beauraing,,,Beauraing
+stops,stop_name,en,Beauraing,,,Beauraing
+stops,stop_name,fr,Houyet,,,Houyet
+stops,stop_name,nl,Houyet,,,Houyet
+stops,stop_name,de,Houyet,,,Houyet
+stops,stop_name,en,Houyet,,,Houyet
+stops,stop_name,fr,Gendron-Celles,,,Gendron-Celles
+stops,stop_name,nl,Gendron-Celles,,,Gendron-Celles
+stops,stop_name,de,Gendron-Celles,,,Gendron-Celles
+stops,stop_name,en,Gendron-Celles,,,Gendron-Celles
+stops,stop_name,fr,Anseremme,,,Anseremme
+stops,stop_name,nl,Anseremme,,,Anseremme
+stops,stop_name,de,Anseremme,,,Anseremme
+stops,stop_name,en,Anseremme,,,Anseremme
+stops,stop_name,fr,Godinne,,,Godinne
+stops,stop_name,nl,Godinne,,,Godinne
+stops,stop_name,de,Godinne,,,Godinne
+stops,stop_name,en,Godinne,,,Godinne
+stops,stop_name,fr,Yvoir,,,Yvoir
+stops,stop_name,nl,Yvoir,,,Yvoir
+stops,stop_name,de,Yvoir,,,Yvoir
+stops,stop_name,en,Yvoir,,,Yvoir
+stops,stop_name,fr,Dinant,,,Dinant
+stops,stop_name,nl,Dinant,,,Dinant
+stops,stop_name,de,Dinant,,,Dinant
+stops,stop_name,en,Dinant,,,Dinant
+stops,stop_name,fr,Marche-les-Dames,,,Marche-les-Dames
+stops,stop_name,nl,Marche-les-Dames,,,Marche-les-Dames
+stops,stop_name,de,Marche-les-Dames,,,Marche-les-Dames
+stops,stop_name,en,Marche-les-Dames,,,Marche-les-Dames
+stops,stop_name,fr,Namêche,,,Namêche
+stops,stop_name,nl,Namêche,,,Namêche
+stops,stop_name,de,Namêche,,,Namêche
+stops,stop_name,en,Namêche,,,Namêche
+stops,stop_name,fr,Sclaigneaux,,,Sclaigneaux
+stops,stop_name,nl,Sclaigneaux,,,Sclaigneaux
+stops,stop_name,de,Sclaigneaux,,,Sclaigneaux
+stops,stop_name,en,Sclaigneaux,,,Sclaigneaux
+stops,stop_name,fr,Château-de-Seilles,,,Château-de-Seilles
+stops,stop_name,nl,Château-de-Seilles,,,Château-de-Seilles
+stops,stop_name,de,Château-de-Seilles,,,Château-de-Seilles
+stops,stop_name,en,Château-de-Seilles,,,Château-de-Seilles
+stops,stop_name,fr,Andenne,,,Andenne
+stops,stop_name,nl,Andenne,,,Andenne
+stops,stop_name,de,Andenne,,,Andenne
+stops,stop_name,en,Andenne,,,Andenne
+stops,stop_name,fr,Dave-Saint-Martin,,,Dave-Saint-Martin
+stops,stop_name,nl,Dave-Saint-Martin,,,Dave-Saint-Martin
+stops,stop_name,de,Dave-Saint-Martin,,,Dave-Saint-Martin
+stops,stop_name,en,Dave-Saint-Martin,,,Dave-Saint-Martin
+stops,stop_name,fr,Jambes-Est,,,Jambes-Est
+stops,stop_name,nl,Jambes-Oost,,,Jambes-Est
+stops,stop_name,de,Jambes-Oost / Jambes-Est,,,Jambes-Est
+stops,stop_name,en,Jambes-Est / Jambes-Oost,,,Jambes-Est
+stops,stop_name,fr,Lustin,,,Lustin
+stops,stop_name,nl,Lustin,,,Lustin
+stops,stop_name,de,Lustin,,,Lustin
+stops,stop_name,en,Lustin,,,Lustin
+stops,stop_name,fr,Jambes,,,Jambes
+stops,stop_name,nl,Jambes,,,Jambes
+stops,stop_name,de,Jambes,,,Jambes
+stops,stop_name,en,Jambes,,,Jambes
+stops,stop_name,fr,Namur,,,Namur
+stops,stop_name,nl,Namen,,,Namur
+stops,stop_name,de,Namen / Namur,,,Namur
+stops,stop_name,en,Namur / Namen,,,Namur
+stops,stop_name,fr,Stockem,,,Stockem
+stops,stop_name,nl,Stockem,,,Stockem
+stops,stop_name,de,Stockem,,,Stockem
+stops,stop_name,en,Stockem,,,Stockem
+stops,stop_name,fr,Mont-Saint-Guibert,,,Mont-Saint-Guibert
+stops,stop_name,nl,Mont-Saint-Guibert,,,Mont-Saint-Guibert
+stops,stop_name,de,Mont-Saint-Guibert,,,Mont-Saint-Guibert
+stops,stop_name,en,Mont-Saint-Guibert,,,Mont-Saint-Guibert
+stops,stop_name,fr,Blanmont,,,Blanmont
+stops,stop_name,nl,Blanmont,,,Blanmont
+stops,stop_name,de,Blanmont,,,Blanmont
+stops,stop_name,en,Blanmont,,,Blanmont
+stops,stop_name,fr,Chastre,,,Chastre
+stops,stop_name,nl,Chastre,,,Chastre
+stops,stop_name,de,Chastre,,,Chastre
+stops,stop_name,en,Chastre,,,Chastre
+stops,stop_name,fr,Ernage,,,Ernage
+stops,stop_name,nl,Ernage,,,Ernage
+stops,stop_name,de,Ernage,,,Ernage
+stops,stop_name,en,Ernage,,,Ernage
+stops,stop_name,fr,Rhisnes,,,Rhisnes
+stops,stop_name,nl,Rhisnes,,,Rhisnes
+stops,stop_name,de,Rhisnes,,,Rhisnes
+stops,stop_name,en,Rhisnes,,,Rhisnes
+stops,stop_name,fr,Saint-Denis-Bovesse,,,Saint-Denis-Bovesse
+stops,stop_name,nl,Saint-Denis-Bovesse,,,Saint-Denis-Bovesse
+stops,stop_name,de,Saint-Denis-Bovesse,,,Saint-Denis-Bovesse
+stops,stop_name,en,Saint-Denis-Bovesse,,,Saint-Denis-Bovesse
+stops,stop_name,fr,Beuzet,,,Beuzet
+stops,stop_name,nl,Beuzet,,,Beuzet
+stops,stop_name,de,Beuzet,,,Beuzet
+stops,stop_name,en,Beuzet,,,Beuzet
+stops,stop_name,fr,Lonzée,,,Lonzée
+stops,stop_name,nl,Lonzée,,,Lonzée
+stops,stop_name,de,Lonzée,,,Lonzée
+stops,stop_name,en,Lonzée,,,Lonzée
+stops,stop_name,fr,Mazy,,,Mazy
+stops,stop_name,nl,Mazy,,,Mazy
+stops,stop_name,de,Mazy,,,Mazy
+stops,stop_name,en,Mazy,,,Mazy
+stops,stop_name,fr,Chapelle-Dieu,,,Chapelle-Dieu
+stops,stop_name,nl,Chapelle-Dieu,,,Chapelle-Dieu
+stops,stop_name,de,Chapelle-Dieu,,,Chapelle-Dieu
+stops,stop_name,en,Chapelle-Dieu,,,Chapelle-Dieu
+stops,stop_name,fr,Gembloux,,,Gembloux
+stops,stop_name,nl,Gembloux,,,Gembloux
+stops,stop_name,de,Gembloux,,,Gembloux
+stops,stop_name,en,Gembloux,,,Gembloux
+stops,stop_name,fr,Ham-sur-Sambre,,,Ham-sur-Sambre
+stops,stop_name,nl,Ham-sur-Sambre,,,Ham-sur-Sambre
+stops,stop_name,de,Ham-sur-Sambre,,,Ham-sur-Sambre
+stops,stop_name,en,Ham-sur-Sambre,,,Ham-sur-Sambre
+stops,stop_name,fr,Moustier,,,Moustier
+stops,stop_name,nl,Moustier,,,Moustier
+stops,stop_name,de,Moustier,,,Moustier
+stops,stop_name,en,Moustier,,,Moustier
+stops,stop_name,fr,Franière,,,Franière
+stops,stop_name,nl,Franière,,,Franière
+stops,stop_name,de,Franière,,,Franière
+stops,stop_name,en,Franière,,,Franière
+stops,stop_name,fr,Floreffe,,,Floreffe
+stops,stop_name,nl,Floreffe,,,Floreffe
+stops,stop_name,de,Floreffe,,,Floreffe
+stops,stop_name,en,Floreffe,,,Floreffe
+stops,stop_name,fr,Flawinne,,,Flawinne
+stops,stop_name,nl,Flawinne,,,Flawinne
+stops,stop_name,de,Flawinne,,,Flawinne
+stops,stop_name,en,Flawinne,,,Flawinne
+stops,stop_name,fr,Ronet,,,Ronet
+stops,stop_name,nl,Ronet,,,Ronet
+stops,stop_name,de,Ronet,,,Ronet
+stops,stop_name,en,Ronet,,,Ronet
+stops,stop_name,fr,Visé,,,Visé
+stops,stop_name,nl,Wezet,,,Visé
+stops,stop_name,de,Wezet / Visé,,,Visé
+stops,stop_name,en,Visé / Wezet,,,Visé
+stops,stop_name,fr,Coo,,,Coo
+stops,stop_name,nl,Coo,,,Coo
+stops,stop_name,de,Coo,,,Coo
+stops,stop_name,en,Coo,,,Coo
+stops,stop_name,fr,Trois-Ponts,,,Trois-Ponts
+stops,stop_name,nl,Trois-Ponts,,,Trois-Ponts
+stops,stop_name,de,Trois-Ponts,,,Trois-Ponts
+stops,stop_name,en,Trois-Ponts,,,Trois-Ponts
+stops,stop_name,fr,Vielsalm,,,Vielsalm
+stops,stop_name,nl,Vielsalm,,,Vielsalm
+stops,stop_name,de,Vielsalm,,,Vielsalm
+stops,stop_name,en,Vielsalm,,,Vielsalm
+stops,stop_name,fr,Gouvy,,,Gouvy
+stops,stop_name,nl,Gouvy,,,Gouvy
+stops,stop_name,de,Gouvy,,,Gouvy
+stops,stop_name,en,Gouvy,,,Gouvy
+stops,stop_name,fr,Hergenrath,,,Hergenrath
+stops,stop_name,nl,Hergenrath,,,Hergenrath
+stops,stop_name,de,Hergenrath,,,Hergenrath
+stops,stop_name,en,Hergenrath,,,Hergenrath
+stops,stop_name,fr,Eupen,,,Eupen
+stops,stop_name,nl,Eupen,,,Eupen
+stops,stop_name,de,Eupen,,,Eupen
+stops,stop_name,en,Eupen,,,Eupen
+stops,stop_name,fr,Dolhain-Gileppe,,,Dolhain-Gileppe
+stops,stop_name,nl,Dolhain-Gileppe,,,Dolhain-Gileppe
+stops,stop_name,de,Dolhain-Gileppe,,,Dolhain-Gileppe
+stops,stop_name,en,Dolhain-Gileppe,,,Dolhain-Gileppe
+stops,stop_name,fr,Welkenraedt,,,Welkenraedt
+stops,stop_name,nl,Welkenraedt,,,Welkenraedt
+stops,stop_name,de,Welkenraedt,,,Welkenraedt
+stops,stop_name,en,Welkenraedt,,,Welkenraedt
+stops,stop_name,fr,Spa-Géronstère,,,Spa-Géronstère
+stops,stop_name,nl,Spa-Géronstère,,,Spa-Géronstère
+stops,stop_name,de,Spa-Géronstère,,,Spa-Géronstère
+stops,stop_name,en,Spa-Géronstère,,,Spa-Géronstère
+stops,stop_name,fr,Spa,,,Spa
+stops,stop_name,nl,Spa,,,Spa
+stops,stop_name,de,Spa,,,Spa
+stops,stop_name,en,Spa,,,Spa
+stops,stop_name,fr,Franchimont,,,Franchimont
+stops,stop_name,nl,Franchimont,,,Franchimont
+stops,stop_name,de,Franchimont,,,Franchimont
+stops,stop_name,en,Franchimont,,,Franchimont
+stops,stop_name,fr,Theux,,,Theux
+stops,stop_name,nl,Theux,,,Theux
+stops,stop_name,de,Theux,,,Theux
+stops,stop_name,en,Theux,,,Theux
+stops,stop_name,fr,Juslenville,,,Juslenville
+stops,stop_name,nl,Juslenville,,,Juslenville
+stops,stop_name,de,Juslenville,,,Juslenville
+stops,stop_name,en,Juslenville,,,Juslenville
+stops,stop_name,fr,Pepinster-Cité,,,Pepinster-Cité
+stops,stop_name,nl,Pepinster-Cité,,,Pepinster-Cité
+stops,stop_name,de,Pepinster-Cité,,,Pepinster-Cité
+stops,stop_name,en,Pepinster-Cité,,,Pepinster-Cité
+stops,stop_name,fr,Trooz,,,Trooz
+stops,stop_name,nl,Trooz,,,Trooz
+stops,stop_name,de,Trooz,,,Trooz
+stops,stop_name,en,Trooz,,,Trooz
+stops,stop_name,fr,Fraipont,,,Fraipont
+stops,stop_name,nl,Fraipont,,,Fraipont
+stops,stop_name,de,Fraipont,,,Fraipont
+stops,stop_name,en,Fraipont,,,Fraipont
+stops,stop_name,fr,Nessonvaux,,,Nessonvaux
+stops,stop_name,nl,Nessonvaux,,,Nessonvaux
+stops,stop_name,de,Nessonvaux,,,Nessonvaux
+stops,stop_name,en,Nessonvaux,,,Nessonvaux
+stops,stop_name,fr,Pepinster,,,Pepinster
+stops,stop_name,nl,Pepinster,,,Pepinster
+stops,stop_name,de,Pepinster,,,Pepinster
+stops,stop_name,en,Pepinster,,,Pepinster
+stops,stop_name,fr,Verviers-Palais,,,Verviers-Palais
+stops,stop_name,nl,Verviers-Paleis,,,Verviers-Palais
+stops,stop_name,de,Verviers-Paleis / Verviers-Palais,,,Verviers-Palais
+stops,stop_name,en,Verviers-Palais / Verviers-Paleis,,,Verviers-Palais
+stops,stop_name,fr,Verviers-Central,,,Verviers-Central
+stops,stop_name,nl,Verviers-Centraal,,,Verviers-Central
+stops,stop_name,de,Verviers-Centraal / Verviers-Central,,,Verviers-Central
+stops,stop_name,en,Verviers-Central / Verviers-Centraal,,,Verviers-Central
+stops,stop_name,fr,Bressoux,,,Bressoux
+stops,stop_name,nl,Bressoux,,,Bressoux
+stops,stop_name,de,Bressoux,,,Bressoux
+stops,stop_name,en,Bressoux,,,Bressoux
+stops,stop_name,fr,Bas-Oha,,,Bas-Oha
+stops,stop_name,nl,Bas-Oha,,,Bas-Oha
+stops,stop_name,de,Bas-Oha,,,Bas-Oha
+stops,stop_name,en,Bas-Oha,,,Bas-Oha
+stops,stop_name,fr,Statte,,,Statte
+stops,stop_name,nl,Statte,,,Statte
+stops,stop_name,de,Statte,,,Statte
+stops,stop_name,en,Statte,,,Statte
+stops,stop_name,fr,Haute-Flône,,,Haute-Flône
+stops,stop_name,nl,Haute-Flône,,,Haute-Flône
+stops,stop_name,de,Haute-Flône,,,Haute-Flône
+stops,stop_name,en,Haute-Flône,,,Haute-Flône
+stops,stop_name,fr,Amay,,,Amay
+stops,stop_name,nl,Amay,,,Amay
+stops,stop_name,de,Amay,,,Amay
+stops,stop_name,en,Amay,,,Amay
+stops,stop_name,fr,Ampsin,,,Ampsin
+stops,stop_name,nl,Ampsin,,,Ampsin
+stops,stop_name,de,Ampsin,,,Ampsin
+stops,stop_name,en,Ampsin,,,Ampsin
+stops,stop_name,fr,Huy,,,Huy
+stops,stop_name,nl,Hoei,,,Huy
+stops,stop_name,de,Hoei / Huy,,,Huy
+stops,stop_name,en,Huy / Hoei,,,Huy
+stops,stop_name,fr,Engis,,,Engis
+stops,stop_name,nl,Engis,,,Engis
+stops,stop_name,de,Engis,,,Engis
+stops,stop_name,en,Engis,,,Engis
+stops,stop_name,fr,Leman,,,Leman
+stops,stop_name,nl,Leman,,,Leman
+stops,stop_name,de,Leman,,,Leman
+stops,stop_name,en,Leman,,,Leman
+stops,stop_name,fr,Flémalle-Haute,,,Flémalle-Haute
+stops,stop_name,nl,Flémalle-Haute,,,Flémalle-Haute
+stops,stop_name,de,Flémalle-Haute,,,Flémalle-Haute
+stops,stop_name,en,Flémalle-Haute,,,Flémalle-Haute
+stops,stop_name,fr,Flémalle-Grande,,,Flémalle-Grande
+stops,stop_name,nl,Flémalle-Grande,,,Flémalle-Grande
+stops,stop_name,de,Flémalle-Grande,,,Flémalle-Grande
+stops,stop_name,en,Flémalle-Grande,,,Flémalle-Grande
+stops,stop_name,fr,Jemeppe-sur-Meuse,,,Jemeppe-sur-Meuse
+stops,stop_name,nl,Jemeppe-sur-Meuse,,,Jemeppe-sur-Meuse
+stops,stop_name,de,Jemeppe-sur-Meuse,,,Jemeppe-sur-Meuse
+stops,stop_name,en,Jemeppe-sur-Meuse,,,Jemeppe-sur-Meuse
+stops,stop_name,fr,Pont-de-Seraing,,,Pont-de-Seraing
+stops,stop_name,nl,Pont-de-Seraing,,,Pont-de-Seraing
+stops,stop_name,de,Pont-de-Seraing,,,Pont-de-Seraing
+stops,stop_name,en,Pont-de-Seraing,,,Pont-de-Seraing
+stops,stop_name,fr,Sclessin,,,Sclessin
+stops,stop_name,nl,Sclessin,,,Sclessin
+stops,stop_name,de,Sclessin,,,Sclessin
+stops,stop_name,en,Sclessin,,,Sclessin
+stops,stop_name,fr,Sy,,,Sy
+stops,stop_name,nl,Sy,,,Sy
+stops,stop_name,de,Sy,,,Sy
+stops,stop_name,en,Sy,,,Sy
+stops,stop_name,fr,Hamoir,,,Hamoir
+stops,stop_name,nl,Hamoir,,,Hamoir
+stops,stop_name,de,Hamoir,,,Hamoir
+stops,stop_name,en,Hamoir,,,Hamoir
+stops,stop_name,fr,Comblain-la-Tour,,,Comblain-la-Tour
+stops,stop_name,nl,Comblain-la-Tour,,,Comblain-la-Tour
+stops,stop_name,de,Comblain-la-Tour,,,Comblain-la-Tour
+stops,stop_name,en,Comblain-la-Tour,,,Comblain-la-Tour
+stops,stop_name,fr,Aywaille,,,Aywaille
+stops,stop_name,nl,Aywaille,,,Aywaille
+stops,stop_name,de,Aywaille,,,Aywaille
+stops,stop_name,en,Aywaille,,,Aywaille
+stops,stop_name,fr,Rivage,,,Rivage
+stops,stop_name,nl,Rivage,,,Rivage
+stops,stop_name,de,Rivage,,,Rivage
+stops,stop_name,en,Rivage,,,Rivage
+stops,stop_name,fr,Poulseur,,,Poulseur
+stops,stop_name,nl,Poulseur,,,Poulseur
+stops,stop_name,de,Poulseur,,,Poulseur
+stops,stop_name,en,Poulseur,,,Poulseur
+stops,stop_name,fr,Esneux,,,Esneux
+stops,stop_name,nl,Esneux,,,Esneux
+stops,stop_name,de,Esneux,,,Esneux
+stops,stop_name,en,Esneux,,,Esneux
+stops,stop_name,fr,Hony,,,Hony
+stops,stop_name,nl,Hony,,,Hony
+stops,stop_name,de,Hony,,,Hony
+stops,stop_name,en,Hony,,,Hony
+stops,stop_name,fr,Méry,,,Méry
+stops,stop_name,nl,Méry,,,Méry
+stops,stop_name,de,Méry,,,Méry
+stops,stop_name,en,Méry,,,Méry
+stops,stop_name,fr,Tilff,,,Tilff
+stops,stop_name,nl,Tilff,,,Tilff
+stops,stop_name,de,Tilff,,,Tilff
+stops,stop_name,en,Tilff,,,Tilff
+stops,stop_name,fr,Chênée,,,Chênée
+stops,stop_name,nl,Chênée,,,Chênée
+stops,stop_name,de,Chênée,,,Chênée
+stops,stop_name,en,Chênée,,,Chênée
+stops,stop_name,fr,Angleur,,,Angleur
+stops,stop_name,nl,Angleur,,,Angleur
+stops,stop_name,de,Angleur,,,Angleur
+stops,stop_name,en,Angleur,,,Angleur
+stops,stop_name,fr,Glons,,,Glons
+stops,stop_name,nl,Glaaien,,,Glons
+stops,stop_name,de,Glaaien / Glons,,,Glons
+stops,stop_name,en,Glons / Glaaien,,,Glons
+stops,stop_name,fr,Liers,,,Liers
+stops,stop_name,nl,Liers,,,Liers
+stops,stop_name,de,Liers,,,Liers
+stops,stop_name,en,Liers,,,Liers
+stops,stop_name,fr,Milmort,,,Milmort
+stops,stop_name,nl,Milmort,,,Milmort
+stops,stop_name,de,Milmort,,,Milmort
+stops,stop_name,en,Milmort,,,Milmort
+stops,stop_name,fr,Herstal,,,Herstal
+stops,stop_name,nl,Herstal,,,Herstal
+stops,stop_name,de,Herstal,,,Herstal
+stops,stop_name,en,Herstal,,,Herstal
+stops,stop_name,fr,Liège-Carré,,,Liège-Carré
+stops,stop_name,nl,Luik-Carré,,,Liège-Carré
+stops,stop_name,de,Luik-Carré / Liège-Carré,,,Liège-Carré
+stops,stop_name,en,Liège-Carré / Luik-Carré,,,Liège-Carré
+stops,stop_name,fr,Liège-Saint-Lambert,,,Liège-Saint-Lambert
+stops,stop_name,nl,Luik-Sint-Lambertus,,,Liège-Saint-Lambert
+stops,stop_name,de,Luik-Sint-Lambertus / Liège-Saint-Lambert,,,Liège-Saint-Lambert
+stops,stop_name,en,Liège-Saint-Lambert / Luik-Sint-Lambertus,,,Liège-Saint-Lambert
+stops,stop_name,fr,Fexhe-le-Haut-Clocher,,,Fexhe-le-Haut-Clocher
+stops,stop_name,nl,Fexhe-le-Haut-Clocher,,,Fexhe-le-Haut-Clocher
+stops,stop_name,de,Fexhe-le-Haut-Clocher,,,Fexhe-le-Haut-Clocher
+stops,stop_name,en,Fexhe-le-Haut-Clocher,,,Fexhe-le-Haut-Clocher
+stops,stop_name,fr,Momalle,,,Momalle
+stops,stop_name,nl,Momalle,,,Momalle
+stops,stop_name,de,Momalle,,,Momalle
+stops,stop_name,en,Momalle,,,Momalle
+stops,stop_name,fr,Remicourt,,,Remicourt
+stops,stop_name,nl,Remicourt,,,Remicourt
+stops,stop_name,de,Remicourt,,,Remicourt
+stops,stop_name,en,Remicourt,,,Remicourt
+stops,stop_name,fr,Bléret,,,Bléret
+stops,stop_name,nl,Bléret,,,Bléret
+stops,stop_name,de,Bléret,,,Bléret
+stops,stop_name,en,Bléret,,,Bléret
+stops,stop_name,fr,Waremme,,,Waremme
+stops,stop_name,nl,Borgworm,,,Waremme
+stops,stop_name,de,Borgworm / Waremme,,,Waremme
+stops,stop_name,en,Waremme / Borgworm,,,Waremme
+stops,stop_name,fr,Voroux,,,Voroux
+stops,stop_name,nl,Voroux,,,Voroux
+stops,stop_name,de,Voroux,,,Voroux
+stops,stop_name,en,Voroux,,,Voroux
+stops,stop_name,fr,Bierset-Awans,,,Bierset-Awans
+stops,stop_name,nl,Bierset-Awans,,,Bierset-Awans
+stops,stop_name,de,Bierset-Awans,,,Bierset-Awans
+stops,stop_name,en,Bierset-Awans,,,Bierset-Awans
+stops,stop_name,fr,Ans,,,Ans
+stops,stop_name,nl,Ans,,,Ans
+stops,stop_name,de,Ans,,,Ans
+stops,stop_name,en,Ans,,,Ans
+stops,stop_name,fr,Liège-Guillemins,,,Liège-Guillemins
+stops,stop_name,nl,Luik-Guillemins,,,Liège-Guillemins
+stops,stop_name,de,Luik-Guillemins / Liège-Guillemins,,,Liège-Guillemins
+stops,stop_name,en,Liège-Guillemins / Luik-Guillemins,,,Liège-Guillemins
+stops,stop_name,fr,Neerwinden,,,Neerwinden
+stops,stop_name,nl,Neerwinden,,,Neerwinden
+stops,stop_name,de,Neerwinden,,,Neerwinden
+stops,stop_name,en,Neerwinden,,,Neerwinden
+stops,stop_name,fr,Landen,,,Landen
+stops,stop_name,nl,Landen,,,Landen
+stops,stop_name,de,Landen,,,Landen
+stops,stop_name,en,Landen,,,Landen
+stops,stop_name,fr,Ezemaal,,,Ezemaal
+stops,stop_name,nl,Ezemaal,,,Ezemaal
+stops,stop_name,de,Ezemaal,,,Ezemaal
+stops,stop_name,en,Ezemaal,,,Ezemaal
+stops,stop_name,fr,Tirlemont,,,Tirlemont
+stops,stop_name,nl,Tienen,,,Tirlemont
+stops,stop_name,de,Tienen / Tirlemont,,,Tirlemont
+stops,stop_name,en,Tirlemont / Tienen,,,Tirlemont
+stops,stop_name,fr,Zichem,,,Zichem
+stops,stop_name,nl,Zichem,,,Zichem
+stops,stop_name,de,Zichem,,,Zichem
+stops,stop_name,en,Zichem,,,Zichem
+stops,stop_name,fr,Testelt,,,Testelt
+stops,stop_name,nl,Testelt,,,Testelt
+stops,stop_name,de,Testelt,,,Testelt
+stops,stop_name,en,Testelt,,,Testelt
+stops,stop_name,fr,Langdorp,,,Langdorp
+stops,stop_name,nl,Langdorp,,,Langdorp
+stops,stop_name,de,Langdorp,,,Langdorp
+stops,stop_name,en,Langdorp,,,Langdorp
+stops,stop_name,fr,Wezemaal,,,Wezemaal
+stops,stop_name,nl,Wezemaal,,,Wezemaal
+stops,stop_name,de,Wezemaal,,,Wezemaal
+stops,stop_name,en,Wezemaal,,,Wezemaal
+stops,stop_name,fr,Aarschot,,,Aarschot
+stops,stop_name,nl,Aarschot,,,Aarschot
+stops,stop_name,de,Aarschot,,,Aarschot
+stops,stop_name,en,Aarschot,,,Aarschot
+stops,stop_name,fr,Wijgmaal,,,Wijgmaal
+stops,stop_name,nl,Wijgmaal,,,Wijgmaal
+stops,stop_name,de,Wijgmaal,,,Wijgmaal
+stops,stop_name,en,Wijgmaal,,,Wijgmaal
+stops,stop_name,fr,Sint-Joris-Weert,,,Sint-Joris-Weert
+stops,stop_name,nl,Sint-Joris-Weert,,,Sint-Joris-Weert
+stops,stop_name,de,Sint-Joris-Weert,,,Sint-Joris-Weert
+stops,stop_name,en,Sint-Joris-Weert,,,Sint-Joris-Weert
+stops,stop_name,fr,Oud-Heverlee,,,Oud-Heverlee
+stops,stop_name,nl,Oud-Heverlee,,,Oud-Heverlee
+stops,stop_name,de,Oud-Heverlee,,,Oud-Heverlee
+stops,stop_name,en,Oud-Heverlee,,,Oud-Heverlee
+stops,stop_name,fr,Heverlee,,,Heverlee
+stops,stop_name,nl,Heverlee,,,Heverlee
+stops,stop_name,de,Heverlee,,,Heverlee
+stops,stop_name,en,Heverlee,,,Heverlee
+stops,stop_name,fr,Vertrijk,,,Vertrijk
+stops,stop_name,nl,Vertrijk,,,Vertrijk
+stops,stop_name,de,Vertrijk,,,Vertrijk
+stops,stop_name,en,Vertrijk,,,Vertrijk
+stops,stop_name,fr,Louvain,,,Louvain
+stops,stop_name,nl,Leuven,,,Louvain
+stops,stop_name,de,Leuven / Louvain,,,Louvain
+stops,stop_name,en,Louvain / Leuven,,,Louvain
+stops,stop_name,fr,Hamont,,,Hamont
+stops,stop_name,nl,Hamont,,,Hamont
+stops,stop_name,de,Hamont,,,Hamont
+stops,stop_name,en,Hamont,,,Hamont
+stops,stop_name,fr,Neerpelt,,,Neerpelt
+stops,stop_name,nl,Neerpelt,,,Neerpelt
+stops,stop_name,de,Neerpelt,,,Neerpelt
+stops,stop_name,en,Neerpelt,,,Neerpelt
+stops,stop_name,fr,Overpelt,,,Overpelt
+stops,stop_name,nl,Overpelt,,,Overpelt
+stops,stop_name,de,Overpelt,,,Overpelt
+stops,stop_name,en,Overpelt,,,Overpelt
+stops,stop_name,fr,Lommel,,,Lommel
+stops,stop_name,nl,Lommel,,,Lommel
+stops,stop_name,de,Lommel,,,Lommel
+stops,stop_name,en,Lommel,,,Lommel
+stops,stop_name,fr,Olen,,,Olen
+stops,stop_name,nl,Olen,,,Olen
+stops,stop_name,de,Olen,,,Olen
+stops,stop_name,en,Olen,,,Olen
+stops,stop_name,fr,Geel,,,Geel
+stops,stop_name,nl,Geel,,,Geel
+stops,stop_name,de,Geel,,,Geel
+stops,stop_name,en,Geel,,,Geel
+stops,stop_name,fr,Mol,,,Mol
+stops,stop_name,nl,Mol,,,Mol
+stops,stop_name,de,Mol,,,Mol
+stops,stop_name,en,Mol,,,Mol
+stops,stop_name,fr,Kiewit,,,Kiewit
+stops,stop_name,nl,Kiewit,,,Kiewit
+stops,stop_name,de,Kiewit,,,Kiewit
+stops,stop_name,en,Kiewit,,,Kiewit
+stops,stop_name,fr,Zonhoven,,,Zonhoven
+stops,stop_name,nl,Zonhoven,,,Zonhoven
+stops,stop_name,de,Zonhoven,,,Zonhoven
+stops,stop_name,en,Zonhoven,,,Zonhoven
+stops,stop_name,fr,Zolder,,,Zolder
+stops,stop_name,nl,Zolder,,,Zolder
+stops,stop_name,de,Zolder,,,Zolder
+stops,stop_name,en,Zolder,,,Zolder
+stops,stop_name,fr,Heusden,,,Heusden
+stops,stop_name,nl,Heusden,,,Heusden
+stops,stop_name,de,Heusden,,,Heusden
+stops,stop_name,en,Heusden,,,Heusden
+stops,stop_name,fr,Beringen,,,Beringen
+stops,stop_name,nl,Beringen,,,Beringen
+stops,stop_name,de,Beringen,,,Beringen
+stops,stop_name,en,Beringen,,,Beringen
+stops,stop_name,fr,Beverlo,,,Beverlo
+stops,stop_name,nl,Beverlo,,,Beverlo
+stops,stop_name,de,Beverlo,,,Beverlo
+stops,stop_name,en,Beverlo,,,Beverlo
+stops,stop_name,fr,Balen,,,Balen
+stops,stop_name,nl,Balen,,,Balen
+stops,stop_name,de,Balen,,,Balen
+stops,stop_name,en,Balen,,,Balen
+stops,stop_name,fr,Bourg-Léopold,,,Bourg-Léopold
+stops,stop_name,nl,Leopoldsburg,,,Bourg-Léopold
+stops,stop_name,de,Leopoldsburg / Bourg Léopold,,,Bourg-Léopold
+stops,stop_name,en,Bourg Léopold / Leopoldsburg,,,Bourg-Léopold
+stops,stop_name,fr,Saint-Trond,,,Saint-Trond
+stops,stop_name,nl,Sint-Truiden,,,Saint-Trond
+stops,stop_name,de,Sint-Truiden / Saint-Trond,,,Saint-Trond
+stops,stop_name,en,Saint-Trond / Sint-Truiden,,,Saint-Trond
+stops,stop_name,fr,Bokrijk,,,Bokrijk
+stops,stop_name,nl,Bokrijk,,,Bokrijk
+stops,stop_name,de,Bokrijk,,,Bokrijk
+stops,stop_name,en,Bokrijk,,,Bokrijk
+stops,stop_name,fr,Genk,,,Genk
+stops,stop_name,nl,Genk,,,Genk
+stops,stop_name,de,Genk,,,Genk
+stops,stop_name,en,Genk,,,Genk
+stops,stop_name,fr,Diest,,,Diest
+stops,stop_name,nl,Diest,,,Diest
+stops,stop_name,de,Diest,,,Diest
+stops,stop_name,en,Diest,,,Diest
+stops,stop_name,fr,Tongres,,,Tongres
+stops,stop_name,nl,Tongeren,,,Tongres
+stops,stop_name,de,Tongeren / Tongres,,,Tongres
+stops,stop_name,en,Tongres / Tongeren,,,Tongres
+stops,stop_name,fr,Bilzen,,,Bilzen
+stops,stop_name,nl,Bilzen,,,Bilzen
+stops,stop_name,de,Bilzen,,,Bilzen
+stops,stop_name,en,Bilzen,,,Bilzen
+stops,stop_name,fr,Diepenbeek,,,Diepenbeek
+stops,stop_name,nl,Diepenbeek,,,Diepenbeek
+stops,stop_name,de,Diepenbeek,,,Diepenbeek
+stops,stop_name,en,Diepenbeek,,,Diepenbeek
+stops,stop_name,fr,Schulen,,,Schulen
+stops,stop_name,nl,Schulen,,,Schulen
+stops,stop_name,de,Schulen,,,Schulen
+stops,stop_name,en,Schulen,,,Schulen
+stops,stop_name,fr,Alken,,,Alken
+stops,stop_name,nl,Alken,,,Alken
+stops,stop_name,de,Alken,,,Alken
+stops,stop_name,en,Alken,,,Alken
+stops,stop_name,fr,Hasselt,,,Hasselt
+stops,stop_name,nl,Hasselt,,,Hasselt
+stops,stop_name,de,Hasselt,,,Hasselt
+stops,stop_name,en,Hasselt,,,Hasselt
+stops,stop_name,fr,Niel,,,Niel
+stops,stop_name,nl,Niel,,,Niel
+stops,stop_name,de,Niel,,,Niel
+stops,stop_name,en,Niel,,,Niel
+stops,stop_name,fr,Schelle,,,Schelle
+stops,stop_name,nl,Schelle,,,Schelle
+stops,stop_name,de,Schelle,,,Schelle
+stops,stop_name,en,Schelle,,,Schelle
+stops,stop_name,fr,Hemiksem,,,Hemiksem
+stops,stop_name,nl,Hemiksem,,,Hemiksem
+stops,stop_name,de,Hemiksem,,,Hemiksem
+stops,stop_name,en,Hemiksem,,,Hemiksem
+stops,stop_name,fr,Hoboken-Polder,,,Hoboken-Polder
+stops,stop_name,nl,Hoboken-Polder,,,Hoboken-Polder
+stops,stop_name,de,Hoboken-Polder,,,Hoboken-Polder
+stops,stop_name,en,Hoboken-Polder,,,Hoboken-Polder
+stops,stop_name,fr,Ruisbroek-Sauvegarde,,,Ruisbroek-Sauvegarde
+stops,stop_name,nl,Ruisbroek-Sauvegarde,,,Ruisbroek-Sauvegarde
+stops,stop_name,de,Ruisbroek-Sauvegarde,,,Ruisbroek-Sauvegarde
+stops,stop_name,en,Ruisbroek-Sauvegarde,,,Ruisbroek-Sauvegarde
+stops,stop_name,fr,Boom,,,Boom
+stops,stop_name,nl,Boom,,,Boom
+stops,stop_name,de,Boom,,,Boom
+stops,stop_name,en,Boom,,,Boom
+stops,stop_name,fr,Bornem,,,Bornem
+stops,stop_name,nl,Bornem,,,Bornem
+stops,stop_name,de,Bornem,,,Bornem
+stops,stop_name,en,Bornem,,,Bornem
+stops,stop_name,fr,Puurs,,,Puurs
+stops,stop_name,nl,Puurs,,,Puurs
+stops,stop_name,de,Puurs,,,Puurs
+stops,stop_name,en,Puurs,,,Puurs
+stops,stop_name,fr,Willebroek,,,Willebroek
+stops,stop_name,nl,Willebroek,,,Willebroek
+stops,stop_name,de,Willebroek,,,Willebroek
+stops,stop_name,en,Willebroek,,,Willebroek
+stops,stop_name,fr,Hambos,,,Hambos
+stops,stop_name,nl,Hambos,,,Hambos
+stops,stop_name,de,Hambos,,,Hambos
+stops,stop_name,en,Hambos,,,Hambos
+stops,stop_name,fr,Wespelaar-Tildonk,,,Wespelaar-Tildonk
+stops,stop_name,nl,Wespelaar-Tildonk,,,Wespelaar-Tildonk
+stops,stop_name,de,Wespelaar-Tildonk,,,Wespelaar-Tildonk
+stops,stop_name,en,Wespelaar-Tildonk,,,Wespelaar-Tildonk
+stops,stop_name,fr,Haacht,,,Haacht
+stops,stop_name,nl,Haacht,,,Haacht
+stops,stop_name,de,Haacht,,,Haacht
+stops,stop_name,en,Haacht,,,Haacht
+stops,stop_name,fr,Boortmeerbeek,,,Boortmeerbeek
+stops,stop_name,nl,Boortmeerbeek,,,Boortmeerbeek
+stops,stop_name,de,Boortmeerbeek,,,Boortmeerbeek
+stops,stop_name,en,Boortmeerbeek,,,Boortmeerbeek
+stops,stop_name,fr,Hever,,,Hever
+stops,stop_name,nl,Hever,,,Hever
+stops,stop_name,de,Hever,,,Hever
+stops,stop_name,en,Hever,,,Hever
+stops,stop_name,fr,Muizen,,,Muizen
+stops,stop_name,nl,Muizen,,,Muizen
+stops,stop_name,de,Muizen,,,Muizen
+stops,stop_name,en,Muizen,,,Muizen
+stops,stop_name,fr,Malines-Nekkerspoel,,,Malines-Nekkerspoel
+stops,stop_name,nl,Mechelen-Nekkerspoel,,,Malines-Nekkerspoel
+stops,stop_name,de,Mechelen-Nekkerspoel / Malines-Nekkerspoel,,,Malines-Nekkerspoel
+stops,stop_name,en,Malines-Nekkerspoel / Mechelen-Nekkerspoel,,,Malines-Nekkerspoel
+stops,stop_name,fr,Hofstade,,,Hofstade
+stops,stop_name,nl,Hofstade,,,Hofstade
+stops,stop_name,de,Hofstade,,,Hofstade
+stops,stop_name,en,Hofstade,,,Hofstade
+stops,stop_name,fr,Eppegem,,,Eppegem
+stops,stop_name,nl,Eppegem,,,Eppegem
+stops,stop_name,de,Eppegem,,,Eppegem
+stops,stop_name,en,Eppegem,,,Eppegem
+stops,stop_name,fr,Weerde,,,Weerde
+stops,stop_name,nl,Weerde,,,Weerde
+stops,stop_name,de,Weerde,,,Weerde
+stops,stop_name,en,Weerde,,,Weerde
+stops,stop_name,fr,Sint-Katelijne-Waver,,,Sint-Katelijne-Waver
+stops,stop_name,nl,Sint-Katelijne-Waver,,,Sint-Katelijne-Waver
+stops,stop_name,de,Sint-Katelijne-Waver,,,Sint-Katelijne-Waver
+stops,stop_name,en,Sint-Katelijne-Waver,,,Sint-Katelijne-Waver
+stops,stop_name,fr,Duffel,,,Duffel
+stops,stop_name,nl,Duffel,,,Duffel
+stops,stop_name,de,Duffel,,,Duffel
+stops,stop_name,en,Duffel,,,Duffel
+stops,stop_name,fr,Baasrode-Zuid,,,Baasrode-Zuid
+stops,stop_name,nl,Baasrode-Zuid,,,Baasrode-Zuid
+stops,stop_name,de,Baasrode-Zuid / Baasrode-Sud,,,Baasrode-Zuid
+stops,stop_name,en,Baasrode-Sud / Baasrode-Zuid,,,Baasrode-Zuid
+stops,stop_name,fr,Buggenhout,,,Buggenhout
+stops,stop_name,nl,Buggenhout,,,Buggenhout
+stops,stop_name,de,Buggenhout,,,Buggenhout
+stops,stop_name,en,Buggenhout,,,Buggenhout
+stops,stop_name,fr,Malderen,,,Malderen
+stops,stop_name,nl,Malderen,,,Malderen
+stops,stop_name,de,Malderen,,,Malderen
+stops,stop_name,en,Malderen,,,Malderen
+stops,stop_name,fr,Londerzeel,,,Londerzeel
+stops,stop_name,nl,Londerzeel,,,Londerzeel
+stops,stop_name,de,Londerzeel,,,Londerzeel
+stops,stop_name,en,Londerzeel,,,Londerzeel
+stops,stop_name,fr,Kapelle-op-den-Bos,,,Kapelle-op-den-Bos
+stops,stop_name,nl,Kapelle-op-den-Bos,,,Kapelle-op-den-Bos
+stops,stop_name,de,Kapelle-op-den-Bos,,,Kapelle-op-den-Bos
+stops,stop_name,en,Kapelle-op-den-Bos,,,Kapelle-op-den-Bos
+stops,stop_name,fr,Malines,,,Malines
+stops,stop_name,nl,Mechelen,,,Malines
+stops,stop_name,de,Mechelen / Malines,,,Malines
+stops,stop_name,en,Malines / Mechelen,,,Malines
+stops,stop_name,fr,Tielen,,,Tielen
+stops,stop_name,nl,Tielen,,,Tielen
+stops,stop_name,de,Tielen,,,Tielen
+stops,stop_name,en,Tielen,,,Tielen
+stops,stop_name,fr,Turnhout,,,Turnhout
+stops,stop_name,nl,Turnhout,,,Turnhout
+stops,stop_name,de,Turnhout,,,Turnhout
+stops,stop_name,en,Turnhout,,,Turnhout
+stops,stop_name,fr,Begijnendijk,,,Begijnendijk
+stops,stop_name,nl,Begijnendijk,,,Begijnendijk
+stops,stop_name,de,Begijnendijk,,,Begijnendijk
+stops,stop_name,en,Begijnendijk,,,Begijnendijk
+stops,stop_name,fr,Booischot,,,Booischot
+stops,stop_name,nl,Booischot,,,Booischot
+stops,stop_name,de,Booischot,,,Booischot
+stops,stop_name,en,Booischot,,,Booischot
+stops,stop_name,fr,Heist-op-den-Berg,,,Heist-op-den-Berg
+stops,stop_name,nl,Heist-op-den-Berg,,,Heist-op-den-Berg
+stops,stop_name,de,Heist-op-den-Berg,,,Heist-op-den-Berg
+stops,stop_name,en,Heist-op-den-Berg,,,Heist-op-den-Berg
+stops,stop_name,fr,Melkouwen,,,Melkouwen
+stops,stop_name,nl,Melkouwen,,,Melkouwen
+stops,stop_name,de,Melkouwen,,,Melkouwen
+stops,stop_name,en,Melkouwen,,,Melkouwen
+stops,stop_name,fr,Berlaar,,,Berlaar
+stops,stop_name,nl,Berlaar,,,Berlaar
+stops,stop_name,de,Berlaar,,,Berlaar
+stops,stop_name,en,Berlaar,,,Berlaar
+stops,stop_name,fr,Bouwel,,,Bouwel
+stops,stop_name,nl,Bouwel,,,Bouwel
+stops,stop_name,de,Bouwel,,,Bouwel
+stops,stop_name,en,Bouwel,,,Bouwel
+stops,stop_name,fr,Herentals,,,Herentals
+stops,stop_name,nl,Herentals,,,Herentals
+stops,stop_name,de,Herentals,,,Herentals
+stops,stop_name,en,Herentals,,,Herentals
+stops,stop_name,fr,Wolfstee,,,Wolfstee
+stops,stop_name,nl,Wolfstee,,,Wolfstee
+stops,stop_name,de,Wolfstee,,,Wolfstee
+stops,stop_name,en,Wolfstee,,,Wolfstee
+stops,stop_name,fr,Nijlen,,,Nijlen
+stops,stop_name,nl,Nijlen,,,Nijlen
+stops,stop_name,de,Nijlen,,,Nijlen
+stops,stop_name,en,Nijlen,,,Nijlen
+stops,stop_name,fr,Kessel,,,Kessel
+stops,stop_name,nl,Kessel,,,Kessel
+stops,stop_name,de,Kessel,,,Kessel
+stops,stop_name,en,Kessel,,,Kessel
+stops,stop_name,fr,Boechout,,,Boechout
+stops,stop_name,nl,Boechout,,,Boechout
+stops,stop_name,de,Boechout,,,Boechout
+stops,stop_name,en,Boechout,,,Boechout
+stops,stop_name,fr,Lierre,,,Lierre
+stops,stop_name,nl,Lier,,,Lierre
+stops,stop_name,de,Lier / Lierre,,,Lierre
+stops,stop_name,en,Lierre / Lier,,,Lierre
+stops,stop_name,fr,Sint-Mariaburg,,,Sint-Mariaburg
+stops,stop_name,nl,Sint-Mariaburg,,,Sint-Mariaburg
+stops,stop_name,de,Sint-Mariaburg,,,Sint-Mariaburg
+stops,stop_name,en,Sint-Mariaburg,,,Sint-Mariaburg
+stops,stop_name,fr,Kapellen,,,Kapellen
+stops,stop_name,nl,Kapellen,,,Kapellen
+stops,stop_name,de,Kapellen,,,Kapellen
+stops,stop_name,en,Kapellen,,,Kapellen
+stops,stop_name,fr,Heide,,,Heide
+stops,stop_name,nl,Heide,,,Heide
+stops,stop_name,de,Heide,,,Heide
+stops,stop_name,en,Heide,,,Heide
+stops,stop_name,fr,Kijkuit,,,Kijkuit
+stops,stop_name,nl,Kijkuit,,,Kijkuit
+stops,stop_name,de,Kijkuit,,,Kijkuit
+stops,stop_name,en,Kijkuit,,,Kijkuit
+stops,stop_name,fr,Kalmthout,,,Kalmthout
+stops,stop_name,nl,Kalmthout,,,Kalmthout
+stops,stop_name,de,Kalmthout,,,Kalmthout
+stops,stop_name,en,Kalmthout,,,Kalmthout
+stops,stop_name,fr,Wildert,,,Wildert
+stops,stop_name,nl,Wildert,,,Wildert
+stops,stop_name,de,Wildert,,,Wildert
+stops,stop_name,en,Wildert,,,Wildert
+stops,stop_name,fr,Essen,,,Essen
+stops,stop_name,nl,Essen,,,Essen
+stops,stop_name,de,Essen,,,Essen
+stops,stop_name,en,Essen,,,Essen
+stops,stop_name,fr,Hove,,,Hove
+stops,stop_name,nl,Hove,,,Hove
+stops,stop_name,de,Hove,,,Hove
+stops,stop_name,en,Hove,,,Hove
+stops,stop_name,fr,Kontich-Lint,,,Kontich-Lint
+stops,stop_name,nl,Kontich-Lint,,,Kontich-Lint
+stops,stop_name,de,Kontich-Lint,,,Kontich-Lint
+stops,stop_name,en,Kontich-Lint,,,Kontich-Lint
+stops,stop_name,fr,Mortsel-Liersesteenweg,,,Mortsel-Liersesteenweg
+stops,stop_name,nl,Mortsel-Liersesteenweg,,,Mortsel-Liersesteenweg
+stops,stop_name,de,Mortsel-Liersesteenweg,,,Mortsel-Liersesteenweg
+stops,stop_name,en,Mortsel-Liersesteenweg,,,Mortsel-Liersesteenweg
+stops,stop_name,fr,Mortsel-Oude God,,,Mortsel-Oude God
+stops,stop_name,nl,Mortsel-Oude God,,,Mortsel-Oude God
+stops,stop_name,de,Mortsel-Oude God,,,Mortsel-Oude God
+stops,stop_name,en,Mortsel-Oude God,,,Mortsel-Oude God
+stops,stop_name,fr,Anvers-Sud,,,Anvers-Sud
+stops,stop_name,nl,Antwerpen-Zuid,,,Anvers-Sud
+stops,stop_name,de,Antwerpen-Zuid / Anvers-Sud,,,Anvers-Sud
+stops,stop_name,en,Anvers-Sud / Antwerpen-Zuid,,,Anvers-Sud
+stops,stop_name,fr,Mortsel-Deurnesteenweg,,,Mortsel-Deurnesteenweg
+stops,stop_name,nl,Mortsel-Deurnesteenweg,,,Mortsel-Deurnesteenweg
+stops,stop_name,de,Mortsel-Deurnesteenweg,,,Mortsel-Deurnesteenweg
+stops,stop_name,en,Mortsel-Deurnesteenweg,,,Mortsel-Deurnesteenweg
+stops,stop_name,fr,Mortsel,,,Mortsel
+stops,stop_name,nl,Mortsel,,,Mortsel
+stops,stop_name,de,Mortsel,,,Mortsel
+stops,stop_name,en,Mortsel,,,Mortsel
+stops,stop_name,fr,Anvers-Berchem,,,Anvers-Berchem
+stops,stop_name,nl,Antwerpen-Berchem,,,Anvers-Berchem
+stops,stop_name,de,Antwerpen-Berchem / Anvers-Berchem,,,Anvers-Berchem
+stops,stop_name,en,Anvers-Berchem / Antwerpen-Berchem,,,Anvers-Berchem
+stops,stop_name,fr,Noorderkempen (Brecht),,,Noorderkempen (Brecht)
+stops,stop_name,nl,Noorderkempen (Brecht),,,Noorderkempen (Brecht)
+stops,stop_name,de,Noorderkempen (Brecht),,,Noorderkempen (Brecht)
+stops,stop_name,en,Noorderkempen (Brecht),,,Noorderkempen (Brecht)
+stops,stop_name,fr,Anvers-Noorderdokken,,,Anvers-Noorderdokken
+stops,stop_name,nl,Antwerpen-Noorderdokken,,,Anvers-Noorderdokken
+stops,stop_name,de,Antwerpen-Noorderdokken / Anvers-Noorderdokken,,,Anvers-Noorderdokken
+stops,stop_name,en,Anvers-Noorderdokken / Antwerpen-Noorderdokken,,,Anvers-Noorderdokken
+stops,stop_name,fr,Ekeren,,,Ekeren
+stops,stop_name,nl,Ekeren,,,Ekeren
+stops,stop_name,de,Ekeren,,,Ekeren
+stops,stop_name,en,Ekeren,,,Ekeren
+stops,stop_name,fr,Anvers-Luchtbal,,,Anvers-Luchtbal
+stops,stop_name,nl,Antwerpen-Luchtbal,,,Anvers-Luchtbal
+stops,stop_name,de,Antwerpen-Luchtbal / Anvers-Luchtbal,,,Anvers-Luchtbal
+stops,stop_name,en,Anvers-Luchtbal / Antwerpen-Luchtbal,,,Anvers-Luchtbal
+stops,stop_name,fr,Anvers-Central,,,Anvers-Central
+stops,stop_name,nl,Antwerpen-Centraal,,,Anvers-Central
+stops,stop_name,de,Antwerpen-Centraal / Anvers-Central,,,Anvers-Central
+stops,stop_name,en,Anvers-Central / Antwerpen-Centraal,,,Anvers-Central
+stops,stop_name,fr,Brussels Airport-Zaventem,,,Brussels Airport-Zaventem
+stops,stop_name,nl,Brussels Airport-Zaventem,,,Brussels Airport-Zaventem
+stops,stop_name,de,Brussels Airport-Zaventem,,,Brussels Airport-Zaventem
+stops,stop_name,en,Brussels Airport-Zaventem,,,Brussels Airport-Zaventem
+stops,stop_name,fr,Bruxelles-Ouest,,,Bruxelles-Ouest
+stops,stop_name,nl,Brussel-West,,,Bruxelles-Ouest
+stops,stop_name,de,Brus.-West / Brux.-Ouest,,,Bruxelles-Ouest
+stops,stop_name,en,Brux.-Ouest/Brus.-West,,,Bruxelles-Ouest
+stops,stop_name,fr,Tour-et-Taxis,,,Tour-et-Taxis
+stops,stop_name,nl,Thurn-en-Taxis,,,Tour-et-Taxis
+stops,stop_name,de,Thurn-en-Taxis / Tour-et-Taxis,,,Tour-et-Taxis
+stops,stop_name,en,Tour-et-Taxis / Thurn-en-Taxis,,,Tour-et-Taxis
+stops,stop_name,fr,Arcades,,,Arcades
+stops,stop_name,nl,Arcades,,,Arcades
+stops,stop_name,de,Arcades,,,Arcades
+stops,stop_name,en,Arcades,,,Arcades
+stops,stop_name,fr,Vivier D'Oie,,,Vivier D'Oie
+stops,stop_name,nl,Diesdelle,,,Vivier D'Oie
+stops,stop_name,de,Diesdelle / Vivier D'Oie,,,Vivier D'Oie
+stops,stop_name,en,Vivier D'Oie / Diesdelle,,,Vivier D'Oie
+stops,stop_name,fr,Boondael,,,Boondael
+stops,stop_name,nl,Boondaal,,,Boondael
+stops,stop_name,de,Boondaal / Boondael,,,Boondael
+stops,stop_name,en,Boondael/Boondaal,,,Boondael
+stops,stop_name,fr,Saint-Job,,,Saint-Job
+stops,stop_name,nl,Sint-Job,,,Saint-Job
+stops,stop_name,de,Sint-Job / Saint-Job,,,Saint-Job
+stops,stop_name,en,Saint-Job / Sint-Job,,,Saint-Job
+stops,stop_name,fr,Moensberg,,,Moensberg
+stops,stop_name,nl,Moensberg,,,Moensberg
+stops,stop_name,de,Moensberg,,,Moensberg
+stops,stop_name,en,Moensberg,,,Moensberg
+stops,stop_name,fr,Beersel,,,Beersel
+stops,stop_name,nl,Beersel,,,Beersel
+stops,stop_name,de,Beersel,,,Beersel
+stops,stop_name,en,Beersel,,,Beersel
+stops,stop_name,fr,Huizingen,,,Huizingen
+stops,stop_name,nl,Huizingen,,,Huizingen
+stops,stop_name,de,Huizingen,,,Huizingen
+stops,stop_name,en,Huizingen,,,Huizingen
+stops,stop_name,fr,Forest-Midi,,,Forest-Midi
+stops,stop_name,nl,Vorst-Zuid,,,Forest-Midi
+stops,stop_name,de,Vorst-Zuid / Forest-Midi,,,Forest-Midi
+stops,stop_name,en,Forest-Midi / Vorst-Zuid,,,Forest-Midi
+stops,stop_name,fr,Ruisbroek,,,Ruisbroek
+stops,stop_name,nl,Ruisbroek,,,Ruisbroek
+stops,stop_name,de,Ruisbroek,,,Ruisbroek
+stops,stop_name,en,Ruisbroek,,,Ruisbroek
+stops,stop_name,fr,Lot,,,Lot
+stops,stop_name,nl,Lot,,,Lot
+stops,stop_name,de,Lot,,,Lot
+stops,stop_name,en,Lot,,,Lot
+stops,stop_name,fr,Buizingen,,,Buizingen
+stops,stop_name,nl,Buizingen,,,Buizingen
+stops,stop_name,de,Buizingen,,,Buizingen
+stops,stop_name,en,Buizingen,,,Buizingen
+stops,stop_name,fr,Lembeek,,,Lembeek
+stops,stop_name,nl,Lembeek,,,Lembeek
+stops,stop_name,de,Lembeek,,,Lembeek
+stops,stop_name,en,Lembeek,,,Lembeek
+stops,stop_name,fr,Hal,,,Hal
+stops,stop_name,nl,Halle,,,Hal
+stops,stop_name,de,Halle / Hal,,,Hal
+stops,stop_name,en,Hal / Halle,,,Hal
+stops,stop_name,fr,Waterloo,,,Waterloo
+stops,stop_name,nl,Waterloo,,,Waterloo
+stops,stop_name,de,Waterloo,,,Waterloo
+stops,stop_name,en,Waterloo,,,Waterloo
+stops,stop_name,fr,Braine-l'Alleud,,,Braine-l'Alleud
+stops,stop_name,nl,Eigenbrakel,,,Braine-l'Alleud
+stops,stop_name,de,Braine-l'Alleud,,,Braine-l'Alleud
+stops,stop_name,en,Braine-l'Alleud,,,Braine-l'Alleud
+stops,stop_name,fr,Lillois,,,Lillois
+stops,stop_name,nl,Lillois,,,Lillois
+stops,stop_name,de,Lillois,,,Lillois
+stops,stop_name,en,Lillois,,,Lillois
+stops,stop_name,fr,Nivelles,,,Nivelles
+stops,stop_name,nl,Nijvel,,,Nivelles
+stops,stop_name,de,Nijvel / Nivelles,,,Nivelles
+stops,stop_name,en,Nivelles / Nijvel,,,Nivelles
+stops,stop_name,fr,De Hoek,,,De Hoek
+stops,stop_name,nl,De Hoek,,,De Hoek
+stops,stop_name,de,De Hoek,,,De Hoek
+stops,stop_name,en,De Hoek,,,De Hoek
+stops,stop_name,fr,Rhode-Saint-Genèse,,,Rhode-Saint-Genèse
+stops,stop_name,nl,Sint-Genesius-Rode,,,Rhode-Saint-Genèse
+stops,stop_name,de,St.-Gen.-Rode/Rhode-St-Gen.,,,Rhode-Saint-Genèse
+stops,stop_name,en,Rhode-St-Gen./St.-Gen.-Rode,,,Rhode-Saint-Genèse
+stops,stop_name,fr,Holleken,,,Holleken
+stops,stop_name,nl,Holleken,,,Holleken
+stops,stop_name,de,Holleken,,,Holleken
+stops,stop_name,en,Holleken,,,Holleken
+stops,stop_name,fr,Linkebeek,,,Linkebeek
+stops,stop_name,nl,Linkebeek,,,Linkebeek
+stops,stop_name,de,Linkebeek,,,Linkebeek
+stops,stop_name,en,Linkebeek,,,Linkebeek
+stops,stop_name,fr,Uccle-Calevoet,,,Uccle-Calevoet
+stops,stop_name,nl,Ukkel-Kalevoet,,,Uccle-Calevoet
+stops,stop_name,de,Ukkel Kalevoet / Uccle-Calevoet,,,Uccle-Calevoet
+stops,stop_name,en,Uccle-Calevoet / Ukkel-Kalevoet,,,Uccle-Calevoet
+stops,stop_name,fr,Uccle-Stalle,,,Uccle-Stalle
+stops,stop_name,nl,Ukkel-Stalle,,,Uccle-Stalle
+stops,stop_name,de,Ukkel- / Uccle-Stalle,,,Uccle-Stalle
+stops,stop_name,en,Uccle- / Ukkel-Stalle,,,Uccle-Stalle
+stops,stop_name,fr,Forest-Est,,,Forest-Est
+stops,stop_name,nl,Vorst-Oost,,,Forest-Est
+stops,stop_name,de,Vorst-Oost / Forest-Est,,,Forest-Est
+stops,stop_name,en,Forest-Est / Vorst-Oost,,,Forest-Est
+stops,stop_name,fr,Bruxelles-Midi,,,Bruxelles-Midi
+stops,stop_name,nl,Brussel-Zuid,,,Bruxelles-Midi
+stops,stop_name,de,Brus.-Zuid / Brux.-Midi,,,Bruxelles-Midi
+stops,stop_name,en,Brux.-Midi/Brus.-Zuid,,,Bruxelles-Midi
+stops,stop_name,fr,Bruxelles-Congrès,,,Bruxelles-Congrès
+stops,stop_name,nl,Brussel-Congres,,,Bruxelles-Congrès
+stops,stop_name,de,Brüssel-Congres,,,Bruxelles-Congrès
+stops,stop_name,en,Brussels-Congrès,,,Bruxelles-Congrès
+stops,stop_name,fr,Bruxelles-Chapelle,,,Bruxelles-Chapelle
+stops,stop_name,nl,Brussel-Kapellekerk,,,Bruxelles-Chapelle
+stops,stop_name,de,Brus.-Kap. / Brux.-Chap.,,,Bruxelles-Chapelle
+stops,stop_name,en,Brux.-Chap/Brus.-Kap.,,,Bruxelles-Chapelle
+stops,stop_name,fr,Bruxelles-Central,,,Bruxelles-Central
+stops,stop_name,nl,Brussel-Centraal,,,Bruxelles-Central
+stops,stop_name,de,Brus.-/ Brux-Centr.,,,Bruxelles-Central
+stops,stop_name,en,Brux.-/ Brus-Centr.,,,Bruxelles-Central
+stops,stop_name,fr,Essene Lombeek,,,Essene Lombeek
+stops,stop_name,nl,Essene Lombeek,,,Essene Lombeek
+stops,stop_name,de,Essene-Lombeek,,,Essene Lombeek
+stops,stop_name,en,Essene-Lombeek,,,Essene Lombeek
+stops,stop_name,fr,Ternat,,,Ternat
+stops,stop_name,nl,Ternat,,,Ternat
+stops,stop_name,de,Ternat,,,Ternat
+stops,stop_name,en,Ternat,,,Ternat
+stops,stop_name,fr,Sint-Martens-Bodegem,,,Sint-Martens-Bodegem
+stops,stop_name,nl,Sint-Martens-Bodegem,,,Sint-Martens-Bodegem
+stops,stop_name,de,Sint-Martens-Bodegem,,,Sint-Martens-Bodegem
+stops,stop_name,en,Sint-Martens-Bodegem,,,Sint-Martens-Bodegem
+stops,stop_name,fr,Dilbeek,,,Dilbeek
+stops,stop_name,nl,Dilbeek,,,Dilbeek
+stops,stop_name,de,Dilbeek,,,Dilbeek
+stops,stop_name,en,Dilbeek,,,Dilbeek
+stops,stop_name,fr,Grand-Bigard,,,Grand-Bigard
+stops,stop_name,nl,Groot-Bijgaarden,,,Grand-Bigard
+stops,stop_name,de,Groot-Bijgaarden,,,Grand-Bigard
+stops,stop_name,en,Groot-Bijgaarden,,,Grand-Bigard
+stops,stop_name,fr,Berchem-Sainte-Agathe,,,Berchem-Sainte-Agathe
+stops,stop_name,nl,Sint-Agatha-Berchem,,,Berchem-Sainte-Agathe
+stops,stop_name,de,St-Ag./-Berchem-/St-Ag.,,,Berchem-Sainte-Agathe
+stops,stop_name,en,St-Ag./-Berchem-/St-Ag.,,,Berchem-Sainte-Agathe
+stops,stop_name,fr,Lebbeke,,,Lebbeke
+stops,stop_name,nl,Lebbeke,,,Lebbeke
+stops,stop_name,de,Lebbeke,,,Lebbeke
+stops,stop_name,en,Lebbeke,,,Lebbeke
+stops,stop_name,fr,Heizijde,,,Heizijde
+stops,stop_name,nl,Heizijde,,,Heizijde
+stops,stop_name,de,Heizijde,,,Heizijde
+stops,stop_name,en,Heizijde,,,Heizijde
+stops,stop_name,fr,Opwijk,,,Opwijk
+stops,stop_name,nl,Opwijk,,,Opwijk
+stops,stop_name,de,Opwijk,,,Opwijk
+stops,stop_name,en,Opwijk,,,Opwijk
+stops,stop_name,fr,Merchtem,,,Merchtem
+stops,stop_name,nl,Merchtem,,,Merchtem
+stops,stop_name,de,Merchtem,,,Merchtem
+stops,stop_name,en,Merchtem,,,Merchtem
+stops,stop_name,fr,Mollem,,,Mollem
+stops,stop_name,nl,Mollem,,,Mollem
+stops,stop_name,de,Mollem,,,Mollem
+stops,stop_name,en,Mollem,,,Mollem
+stops,stop_name,fr,Asse,,,Asse
+stops,stop_name,nl,Asse,,,Asse
+stops,stop_name,de,Asse,,,Asse
+stops,stop_name,en,Asse,,,Asse
+stops,stop_name,fr,Zellik,,,Zellik
+stops,stop_name,nl,Zellik,,,Zellik
+stops,stop_name,de,Zellik,,,Zellik
+stops,stop_name,en,Zellik,,,Zellik
+stops,stop_name,fr,Jette,,,Jette
+stops,stop_name,nl,Jette,,,Jette
+stops,stop_name,de,Jette,,,Jette
+stops,stop_name,en,Jette,,,Jette
+stops,stop_name,fr,Bockstael,,,Bockstael
+stops,stop_name,nl,Bockstael,,,Bockstael
+stops,stop_name,de,Bockstael,,,Bockstael
+stops,stop_name,en,Bockstael,,,Bockstael
+stops,stop_name,fr,Simonis,,,Simonis
+stops,stop_name,nl,Simonis,,,Simonis
+stops,stop_name,de,Simonis,,,Simonis
+stops,stop_name,en,Simonis,,,Simonis
+stops,stop_name,fr,Bruxelles-Nord,,,Bruxelles-Nord
+stops,stop_name,nl,Brussel-Noord,,,Bruxelles-Nord
+stops,stop_name,de,Brus.-Noord / Brux.-Nord,,,Bruxelles-Nord
+stops,stop_name,en,Brux.-Nord/Brus.-Noord,,,Bruxelles-Nord
+stops,stop_name,fr,Bruxelles-Schuman,,,Bruxelles-Schuman
+stops,stop_name,nl,Brussel-Schuman,,,Bruxelles-Schuman
+stops,stop_name,de,Brus./Brux.-Schuman,,,Bruxelles-Schuman
+stops,stop_name,en,Brux./Brus.-Schuman,,,Bruxelles-Schuman
+stops,stop_name,fr,Court-Saint-Etienne,,,Court-Saint-Etienne
+stops,stop_name,nl,Court-Saint-Etienne,,,Court-Saint-Etienne
+stops,stop_name,de,Court-Saint-Etienne,,,Court-Saint-Etienne
+stops,stop_name,en,Court-Saint-Etienne,,,Court-Saint-Etienne
+stops,stop_name,fr,Céroux-Mousty,,,Céroux-Mousty
+stops,stop_name,nl,Céroux-Mousty,,,Céroux-Mousty
+stops,stop_name,de,Céroux-Mousty,,,Céroux-Mousty
+stops,stop_name,en,Céroux-Mousty,,,Céroux-Mousty
+stops,stop_name,fr,Pécrot,,,Pécrot
+stops,stop_name,nl,Pécrot,,,Pécrot
+stops,stop_name,de,Pécrot,,,Pécrot
+stops,stop_name,en,Pécrot,,,Pécrot
+stops,stop_name,fr,Florival,,,Florival
+stops,stop_name,nl,Florival,,,Florival
+stops,stop_name,de,Florival,,,Florival
+stops,stop_name,en,Florival,,,Florival
+stops,stop_name,fr,Archennes,,,Archennes
+stops,stop_name,nl,Eerken,,,Archennes
+stops,stop_name,de,Eerken / Archennes,,,Archennes
+stops,stop_name,en,Archennes / Eerken,,,Archennes
+stops,stop_name,fr,Gastuche,,,Gastuche
+stops,stop_name,nl,Gastuche,,,Gastuche
+stops,stop_name,de,Gastuche,,,Gastuche
+stops,stop_name,en,Gastuche,,,Gastuche
+stops,stop_name,fr,Basse-Wavre,,,Basse-Wavre
+stops,stop_name,nl,Basse-Wavre,,,Basse-Wavre
+stops,stop_name,de,Basse-Wavre,,,Basse-Wavre
+stops,stop_name,en,Basse-Wavre,,,Basse-Wavre
+stops,stop_name,fr,Wavre,,,Wavre
+stops,stop_name,nl,Waver,,,Wavre
+stops,stop_name,de,Waver / Wavre,,,Wavre
+stops,stop_name,en,Wavre / Waver,,,Wavre
+stops,stop_name,fr,Bierges-Walibi,,,Bierges-Walibi
+stops,stop_name,nl,Bierges-Walibi,,,Bierges-Walibi
+stops,stop_name,de,Bierges-Walibi,,,Bierges-Walibi
+stops,stop_name,en,Bierges-Walibi,,,Bierges-Walibi
+stops,stop_name,fr,Louvain-la-Neuve,,,Louvain-la-Neuve
+stops,stop_name,nl,Louvain-la-Neuve,,,Louvain-la-Neuve
+stops,stop_name,de,Louvain-la-Neuve,,,Louvain-la-Neuve
+stops,stop_name,en,Louvain-la-Neuve,,,Louvain-la-Neuve
+stops,stop_name,fr,Limal,,,Limal
+stops,stop_name,nl,Limal,,,Limal
+stops,stop_name,de,Limal,,,Limal
+stops,stop_name,en,Limal,,,Limal
+stops,stop_name,fr,Ottignies,,,Ottignies
+stops,stop_name,nl,Ottignies,,,Ottignies
+stops,stop_name,de,Ottignies,,,Ottignies
+stops,stop_name,en,Ottignies,,,Ottignies
+stops,stop_name,fr,Profondsart,,,Profondsart
+stops,stop_name,nl,Profondsart,,,Profondsart
+stops,stop_name,de,Profondsart,,,Profondsart
+stops,stop_name,en,Profondsart,,,Profondsart
+stops,stop_name,fr,Rixensart,,,Rixensart
+stops,stop_name,nl,Rixensart,,,Rixensart
+stops,stop_name,de,Rixensart,,,Rixensart
+stops,stop_name,en,Rixensart,,,Rixensart
+stops,stop_name,fr,Genval,,,Genval
+stops,stop_name,nl,Genval,,,Genval
+stops,stop_name,de,Genval,,,Genval
+stops,stop_name,en,Genval,,,Genval
+stops,stop_name,fr,La Hulpe,,,La Hulpe
+stops,stop_name,nl,Terhulpen,,,La Hulpe
+stops,stop_name,de,Terhulpen / La Hulpe,,,La Hulpe
+stops,stop_name,en,La Hulpe / Terhulpen,,,La Hulpe
+stops,stop_name,fr,Hoeilaart,,,Hoeilaart
+stops,stop_name,nl,Hoeilaart,,,Hoeilaart
+stops,stop_name,de,Hoeilaart,,,Hoeilaart
+stops,stop_name,en,Hoeilaart,,,Hoeilaart
+stops,stop_name,fr,Groenendaal,,,Groenendaal
+stops,stop_name,nl,Groenendaal,,,Groenendaal
+stops,stop_name,de,Groenendaal,,,Groenendaal
+stops,stop_name,en,Groenendaal,,,Groenendaal
+stops,stop_name,fr,Boitsfort,,,Boitsfort
+stops,stop_name,nl,Bosvoorde,,,Boitsfort
+stops,stop_name,de,Bosvoorde / Boitsfort,,,Boitsfort
+stops,stop_name,en,Boitsfort/Bosvoorde,,,Boitsfort
+stops,stop_name,fr,Watermael,,,Watermael
+stops,stop_name,nl,Watermaal,,,Watermael
+stops,stop_name,de,Watermaal / Watermael,,,Watermael
+stops,stop_name,en,Watermael / Watermaal,,,Watermael
+stops,stop_name,fr,Etterbeek,,,Etterbeek
+stops,stop_name,nl,Etterbeek,,,Etterbeek
+stops,stop_name,de,Etterbeek,,,Etterbeek
+stops,stop_name,en,Etterbeek,,,Etterbeek
+stops,stop_name,fr,Germoir,,,Germoir
+stops,stop_name,nl,Mouterij,,,Germoir
+stops,stop_name,de,Mouterij / Germoir,,,Germoir
+stops,stop_name,en,Germoir / Mouterij,,,Germoir
+stops,stop_name,fr,Bruxelles-Luxembourg,,,Bruxelles-Luxembourg
+stops,stop_name,nl,Brussel-Luxemburg,,,Bruxelles-Luxembourg
+stops,stop_name,de,Brus./Brux.-Luxemb.,,,Bruxelles-Luxembourg
+stops,stop_name,en,Brux./Brus.-Luxemb.,,,Bruxelles-Luxembourg
+stops,stop_name,fr,Herent,,,Herent
+stops,stop_name,nl,Herent,,,Herent
+stops,stop_name,de,Herent,,,Herent
+stops,stop_name,en,Herent,,,Herent
+stops,stop_name,fr,Veltem,,,Veltem
+stops,stop_name,nl,Veltem,,,Veltem
+stops,stop_name,de,Veltem,,,Veltem
+stops,stop_name,en,Veltem,,,Veltem
+stops,stop_name,fr,Erps-Kwerps,,,Erps-Kwerps
+stops,stop_name,nl,Erps-Kwerps,,,Erps-Kwerps
+stops,stop_name,de,Erps-Kwerps,,,Erps-Kwerps
+stops,stop_name,en,Erps-Kwerps,,,Erps-Kwerps
+stops,stop_name,fr,Kortenberg,,,Kortenberg
+stops,stop_name,nl,Kortenberg,,,Kortenberg
+stops,stop_name,de,Kortenberg,,,Kortenberg
+stops,stop_name,en,Kortenberg,,,Kortenberg
+stops,stop_name,fr,Nossegem,,,Nossegem
+stops,stop_name,nl,Nossegem,,,Nossegem
+stops,stop_name,de,Nossegem,,,Nossegem
+stops,stop_name,en,Nossegem,,,Nossegem
+stops,stop_name,fr,Zaventem,,,Zaventem
+stops,stop_name,nl,Zaventem,,,Zaventem
+stops,stop_name,de,Zaventem,,,Zaventem
+stops,stop_name,en,Zaventem,,,Zaventem
+stops,stop_name,fr,Diegem,,,Diegem
+stops,stop_name,nl,Diegem,,,Diegem
+stops,stop_name,de,Diegem,,,Diegem
+stops,stop_name,en,Diegem,,,Diegem
+stops,stop_name,fr,Delta,,,Delta
+stops,stop_name,nl,Delta,,,Delta
+stops,stop_name,de,Delta,,,Delta
+stops,stop_name,en,Delta,,,Delta
+stops,stop_name,fr,Mérode,,,Mérode
+stops,stop_name,nl,Merode,,,Mérode
+stops,stop_name,de,Merode / Mérode,,,Mérode
+stops,stop_name,en,Mérode/Merode,,,Mérode
+stops,stop_name,fr,Vilvorde,,,Vilvorde
+stops,stop_name,nl,Vilvoorde,,,Vilvorde
+stops,stop_name,de,Vilvoorde / Vilvorde,,,Vilvorde
+stops,stop_name,en,Vilvorde / Vilvoorde,,,Vilvorde
+stops,stop_name,fr,Meiser,,,Meiser
+stops,stop_name,nl,Meiser,,,Meiser
+stops,stop_name,de,Meiser,,,Meiser
+stops,stop_name,en,Meiser,,,Meiser
+stops,stop_name,fr,Bordet,,,Bordet
+stops,stop_name,nl,Bordet,,,Bordet
+stops,stop_name,de,Bordet,,,Bordet
+stops,stop_name,en,Bordet,,,Bordet
+stops,stop_name,fr,Haren,,,Haren
+stops,stop_name,nl,Haren,,,Haren
+stops,stop_name,de,Haren,,,Haren
+stops,stop_name,en,Haren,,,Haren
+stops,stop_name,fr,Buda,,,Buda
+stops,stop_name,nl,Buda,,,Buda
+stops,stop_name,de,Buda,,,Buda
+stops,stop_name,en,Buda,,,Buda
+stops,stop_name,fr,Haren-Sud,,,Haren-Sud
+stops,stop_name,nl,Haren-Zuid,,,Haren-Sud
+stops,stop_name,de,Haren-Zuid / Haren-Sud,,,Haren-Sud
+stops,stop_name,en,Haren-Sud / Haren-Zuid,,,Haren-Sud
+stops,stop_name,fr,Evere,,,Evere
+stops,stop_name,nl,Evere,,,Evere
+stops,stop_name,de,Evere,,,Evere
+stops,stop_name,en,Evere,,,Evere
+stops,stop_name,fr,Schaerbeek,,,Schaerbeek
+stops,stop_name,nl,Schaarbeek,,,Schaerbeek
+stops,stop_name,de,Schaarbeek / Schaerbeek,,,Schaerbeek
+stops,stop_name,en,Schaerbeek / Schaarbeek,,,Schaerbeek
+stops,stop_name,fr,Luxembourg (LU),,,Luxembourg (LU)
+stops,stop_name,nl,Luxemburg (LU),,,Luxembourg (LU)
+stops,stop_name,de,Luxemburg (LU),,,Luxembourg (LU)
+stops,stop_name,en,Luxembourg (LU),,,Luxembourg (LU)
+stops,stop_name,fr,Sterpenich-Frontière,,,Sterpenich-Frontière
+stops,stop_name,nl,Sterpenich-Frontière,,,Sterpenich-Frontière
+stops,stop_name,de,Sterpenich-Frontière,,,Sterpenich-Frontière
+stops,stop_name,en,Sterpenich-Frontière,,,Sterpenich-Frontière
+stops,stop_name,fr,Athus-Frontière,,,Athus-Frontière
+stops,stop_name,nl,Athus-Frontière,,,Athus-Frontière
+stops,stop_name,de,Athus-Frontière,,,Athus-Frontière
+stops,stop_name,en,Athus-Frontière,,,Athus-Frontière
+stops,stop_name,fr,Blandain-Frontière,,,Blandain-Frontière
+stops,stop_name,nl,Blandain-Frontière,,,Blandain-Frontière
+stops,stop_name,de,Blandain-Frontière,,,Blandain-Frontière
+stops,stop_name,en,Blandain-Frontière,,,Blandain-Frontière
+stops,stop_name,fr,Gouvy-Frontière,,,Gouvy-Frontière
+stops,stop_name,nl,Gouvy-Frontière,,,Gouvy-Frontière
+stops,stop_name,de,Gouvy-Frontière,,,Gouvy-Frontière
+stops,stop_name,en,Gouvy-Frontière,,,Gouvy-Frontière
+stops,stop_name,fr,Mouscron-Frontière,,,Mouscron-Frontière
+stops,stop_name,nl,Mouscron-Frontière,,,Mouscron-Frontière
+stops,stop_name,de,Mouscron-Frontière,,,Mouscron-Frontière
+stops,stop_name,en,Mouscron-Frontière,,,Mouscron-Frontière
+stops,stop_name,fr,Visé-Frontière,,,Visé-Frontière
+stops,stop_name,nl,Visé-Frontière,,,Visé-Frontière
+stops,stop_name,de,Visé-Frontière,,,Visé-Frontière
+stops,stop_name,en,Visé-Frontière,,,Visé-Frontière
+stops,stop_name,fr,Hergenrath-Frontière,,,Hergenrath-Frontière
+stops,stop_name,nl,Hergenrath-Frontière,,,Hergenrath-Frontière
+stops,stop_name,de,Hergenrath-Frontière,,,Hergenrath-Frontière
+stops,stop_name,en,Hergenrath-Frontière,,,Hergenrath-Frontière
+stops,stop_name,fr,Essen-Grens,,,Essen-Grens
+stops,stop_name,nl,Essen-Grens,,,Essen-Grens
+stops,stop_name,de,Essen-Grens,,,Essen-Grens
+stops,stop_name,en,Essen-Grens,,,Essen-Grens
+stops,stop_name,fr,Ougrée,,,Ougrée
+stops,stop_name,nl,Ougrée,,,Ougrée
+stops,stop_name,de,Ougrée,,,Ougrée
+stops,stop_name,en,Ougrée,,,Ougrée
+stops,stop_name,fr,Seraing,,,Seraing
+stops,stop_name,nl,Seraing,,,Seraing
+stops,stop_name,de,Seraing,,,Seraing
+stops,stop_name,en,Seraing,,,Seraing
+stops,stop_name,fr,Y.RENORY,,,Y.RENORY
+stops,stop_name,nl,Y.RENORY,,,Y.RENORY
+stops,stop_name,de,Y.RENORY,,,Y.RENORY
+stops,stop_name,en,Y.RENORY,,,Y.RENORY
+stops,stop_name,fr,Chaudfontaine,,,Chaudfontaine
+stops,stop_name,nl,Chaudfontaine,,,Chaudfontaine
+stops,stop_name,de,Chaudfontaine,,,Chaudfontaine
+stops,stop_name,en,Chaudfontaine,,,Chaudfontaine
+stops,stop_name,fr,ERQUELINNES-FRONTIERE,,,ERQUELINNES-FRONTIERE
+stops,stop_name,nl,ERQUELINNES-FRONTIERE,,,ERQUELINNES-FRONTIERE
+stops,stop_name,de,ERQUELINNES-FRONTIERE,,,ERQUELINNES-FRONTIERE
+stops,stop_name,en,ERQUELINNES-FRONTIERE,,,ERQUELINNES-FRONTIERE
+stops,stop_name,fr,Anderlecht,,,Anderlecht
+stops,stop_name,nl,Anderlecht,,,Anderlecht
+stops,stop_name,de,Anderlecht,,,Anderlecht
+stops,stop_name,en,Anderlecht,,,Anderlecht

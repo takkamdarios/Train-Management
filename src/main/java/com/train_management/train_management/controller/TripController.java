@@ -24,9 +24,9 @@ public class TripController {
         return ResponseEntity.ok(tripService.findAll());
     }
 
-    @GetMapping("/{id}")
-    public ResponseEntity<Trip> getTripById(@PathVariable Long id) {
-        return ResponseEntity.ok(tripService.findById(id));
+    @GetMapping("/{trip_id}")
+    public ResponseEntity<Trip> getTripById(@PathVariable("trip_id") Long tripId) {
+        return ResponseEntity.ok(tripService.findById(tripId));
     }
 
     @PostMapping
@@ -34,14 +34,14 @@ public class TripController {
         return ResponseEntity.ok(tripService.save(trip));
     }
 
-    @PutMapping("/{id}")
-    public ResponseEntity<Trip> updateTrip(@PathVariable Long id, @RequestBody Trip trip) {
-        return ResponseEntity.ok(tripService.update(id, trip));
+    @PutMapping("/{trip_id}")
+    public ResponseEntity<Trip> updateTrip(@PathVariable("trip_id") Long tripId, @RequestBody Trip trip) {
+        return ResponseEntity.ok(tripService.update(tripId, trip));
     }
 
-    @DeleteMapping("/{id}")
-    public ResponseEntity<Void> deleteTrip(@PathVariable Long id) {
-        tripService.delete(id);
+    @DeleteMapping("/{trip_id}")
+    public ResponseEntity<Void> deleteTrip(@PathVariable("trip_id") Long tripId) {
+        tripService.delete(tripId);
         return ResponseEntity.noContent().build();
     }
 }

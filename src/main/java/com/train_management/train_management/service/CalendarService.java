@@ -4,7 +4,6 @@ import com.train_management.train_management.model.Calendar;
 import com.train_management.train_management.repository.CalendarRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import java.util.List;
 import java.util.Optional;
 
@@ -18,23 +17,27 @@ public class CalendarService {
         this.calendarRepository = calendarRepository;
     }
 
-    public Calendar saveCalendar(Calendar calendar) {
+    // Save or create a new Calendar entry
+    public Calendar save(Calendar calendar) {
         return calendarRepository.save(calendar);
     }
 
-    public Optional<Calendar> getCalendarById(Long id) {
-        return calendarRepository.findById(id);
+    // Get a Calendar entry by serviceId
+    public Optional<Calendar> findByServiceId(String serviceId) {
+        return calendarRepository.findById(serviceId);
     }
 
-    public List<Calendar> getAllCalendars() {
+    // Get all Calendar entries
+    public List<Calendar> findAll() {
         return calendarRepository.findAll();
     }
 
-    public Calendar updateCalendar(Long id, Calendar calendarDetails) {
-        Calendar calendar = calendarRepository.findById(id)
-                .orElseThrow(() -> new RuntimeException("Calendar not found with id " + id));
+    // Update a Calendar entry
+    public Calendar update(String serviceId, Calendar calendarDetails) {
+        Calendar calendar = calendarRepository.findById(serviceId)
+                .orElseThrow(() -> new IllegalStateException("Calendar with serviceId " + serviceId + " not found"));
 
-        calendar.setServiceId(calendarDetails.getServiceId());
+        // Update fields from calendarDetails to calendar
         calendar.setMonday(calendarDetails.getMonday());
         calendar.setTuesday(calendarDetails.getTuesday());
         calendar.setWednesday(calendarDetails.getWednesday());
@@ -48,47 +51,8 @@ public class CalendarService {
         return calendarRepository.save(calendar);
     }
 
-    public void deleteCalendar(Long id) {
-        Calendar calendar = calendarRepository.findById(id)
-                .orElseThrow(() -> new RuntimeException("Calendar not found with id " + id));
-        calendarRepository.delete(calendar);
-    }
-
-
-
-    public List<Calendar> findAll() {
-        return calendarRepository.findAll();
-    }
-
-    public Calendar findById(Long id) {
-        // Assuming Optional<Calendar> is returned; handle null case as per your application's needs
-        return calendarRepository.findById(id).orElse(null);
-    }
-
-    public Calendar save(Calendar calendar) {
-        return calendarRepository.save(calendar);
-    }
-
-    public Calendar update(Long id, Calendar calendarDetails) {
-        // Check if the calendar exists, update fields, and save
-        Calendar calendar = calendarRepository.findById(id).orElse(null);
-        if (calendar != null) {
-            calendar.setServiceId(calendarDetails.getServiceId());
-            calendar.setMonday(calendarDetails.getMonday());
-            calendar.setTuesday(calendarDetails.getTuesday());
-            calendar.setWednesday(calendarDetails.getWednesday());
-            calendar.setThursday(calendarDetails.getThursday());
-            calendar.setFriday(calendarDetails.getFriday());
-            calendar.setSaturday(calendarDetails.getSaturday());
-            calendar.setSunday(calendarDetails.getSunday());
-            calendar.setStartDate(calendarDetails.getStartDate());
-            calendar.setEndDate(calendarDetails.getEndDate());
-            calendarRepository.save(calendar);
-        }
-        return calendar;
-    }
-
-    public void delete(Long id) {
-        calendarRepository.deleteById(id);
+    // Delete a Calendar entry by serviceId
+    public void deleteByServiceId(String serviceId) {
+        calendarRepository.deleteById(serviceId);
     }
 }

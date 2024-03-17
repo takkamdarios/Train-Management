@@ -1,11 +1,7 @@
 package com.train_management.train_management.model;
 
-
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
-
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
@@ -14,11 +10,11 @@ import jakarta.persistence.Table;
 public class Route {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+    @Column(name = "route_id")
+    private Long routeId;
 
     @Column(name = "agency_id")
-    private Long agencyId; // If there's a foreign key relationship with the agencies table
+    private Long agencyId;
 
     @Column(name = "route_short_name")
     private String routeShortName;
@@ -30,25 +26,24 @@ public class Route {
     private String routeDesc;
 
     @Column(name = "route_type")
-    private Integer routeType; // This should correspond to the type of transport (bus, tram, subway, etc.)
+    private Integer routeType;
 
     @Column(name = "route_url")
     private String routeUrl;
 
     @Column(name = "route_color")
-    private String routeColor; // If you store colors as hex values
+    private String routeColor;
 
     @Column(name = "route_text_color")
-    private String routeTextColor; // If you store colors as hex values
-
+    private String routeTextColor;
     // Standard getters and setters
 
-    public Long getId() {
-        return id;
+    public Long getRouteId() {
+        return routeId;
     }
 
-    public void setId(Long id) {
-        this.id = id;
+    public void setRouteId(Long routeId) {
+        this.routeId = routeId;
     }
 
     public Long getAgencyId() {
@@ -115,5 +110,9 @@ public class Route {
         this.routeTextColor = routeTextColor;
     }
 
-    // toString, hashCode, equals, and other methods (if necessary)
+    // Optionally include toString, hashCode, and equals methods
+
+    public Route() {
+        // Default constructor
+    }
 }

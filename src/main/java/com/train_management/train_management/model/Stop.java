@@ -10,11 +10,13 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
 @Entity
+
 @Table(name = "stops")
 public class Stop {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "stop_id")
     private Long id;
 
     @Column(name = "stop_code")
